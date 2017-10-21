@@ -8,4 +8,17 @@ La primera web del referéndum [referendum.cat](http://referendum.cat/) (direcci
 
 ![](images/referendum_cat_blocked.png)
 
+Esta Web tenía como propósito informar sobre la consulta, la orden de bloqueo de la Web proviene del juzgado de instrucción número 13 a petición de la GC (parece que la empresa que aloja la Web es [CD Mon](https://www.cdmon.com/es/)).
+
+**Como era de predecir (para todxs excepto lxs informáticxs del gobierno de Madrid parece) surgen clones de la Web original**, la medida judicial solo alimenta una respuesta más virulenta casi imposible de detener ya. Es imposible ponerle puertas al campo. 
+
+Inmediatamente se hicieron  públicas **dos direcciones alternativas**.
+
+
+
+
+## Enlaces externos
+
+* 
+
 [volver](./)
