@@ -14,13 +14,15 @@ Esta Web tenía como propósito informar sobre la consulta, la orden de bloqueo 
 
 Inmediatamente se hicieron  públicas **dos direcciones alternativas**.
 
-[ref1oct.eu](https://www.ref1oct.eu/)  (IP 35.201.78.139) con dominio de la unión europea (EU=European Union) esta registrada por la empresa [EuroDNS S.A](https://www.eurodns.com/) con sede en Luxemburgo. Actualmente esta Web esta inaccesible.  	 
+**[ref1oct.eu](https://www.ref1oct.eu/)**  (IP 35.201.78.139) con dominio de la unión europea (EU=European Union) esta registrada por la empresa [EuroDNS S.A](https://www.eurodns.com/) con sede en Luxemburgo ([Google maps](https://goo.gl/maps/kKnoa9WJq4R2)). Actualmente esta Web esta inaccesible.  	 
 
 ![](images/ref1oct_eu_404.png)
 
-Una consulta [WHOIS](https://whois.net/) muestra algunos datos sobre la empresa que registra el nombre, [Xabier Buck](https://www.linkedin.com/in/xavierbuck/) solo es un directivo de la empresa EuroDNS.  
+Una consulta [WHOIS](https://whois.net/) muestra algunos datos sobre la empresa que registra el nombre, [Xabier Buck](https://www.linkedin.com/in/xavierbuck/) solo es un directivo de la empresa EuroDNS que ofrece servicios de alojamiento a miles de otras Webs.  
 
 ![](images/eurodns_whois.png)
+
+
 
 ## Enlaces externos
 
