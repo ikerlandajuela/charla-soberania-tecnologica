@@ -2,7 +2,7 @@
 layout: default
 ---
 
-La primera web del refer閚dum [referendum.cat](http://referendum.cat/) (direcci髇 IP de red 92.122.241.124) fue cerrada por orden judicial el 13 de Septiembre, s髄o seis d韆s despu閟 de su publicaci髇, s髄o hay que ver el aspecto que sigue ofreciendo hoy en d韆 (por cierto, necesitan un dise馻dor Web de forma urgente):
+La primera web del refer茅ndum [referendum.cat](http://referendum.cat/) (direcci贸n IP de red 92.122.241.124) fue cerrada por orden judicial el 13 de Septiembre, s贸lo seis d铆as despu茅s de su publicaci贸n, s贸lo hay que ver el aspecto que sigue ofreciendo hoy en d铆a (por cierto, necesitan un dise帽ador Web de forma urgente):
 
 ![](images/referendum_cat_blocked.png)
 
