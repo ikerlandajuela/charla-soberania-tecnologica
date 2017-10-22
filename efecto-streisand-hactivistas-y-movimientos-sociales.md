@@ -4,6 +4,9 @@ layout: default
 
 [volver](./)
 
+* [Efecto Streisand: Hactivistas y movimientos sociales]()
+* [Buscando mirrors de la Web](#buscando-mirrors-de-la-web)
+* [Enlaces externos](#enlaces-externos)
 
 # Efecto Streisand: Hactivistas y movimientos sociales
 
@@ -41,7 +44,9 @@ Morales explica que descargó el código fuente de las páginas web cerradas y l
 
 ![](images/daniel_morales_1.PNG)
 
-El dump ha sido creado con la herramienta [wget](https://www.gnu.org/software/wget/) y los links convertidos automáticamente
+El dump ha sido creado con la herramienta [wget](https://www.gnu.org/software/wget/) y los links convertidos automáticamente.
+
+# Buscando mirrors de la Web
 
 
 # Enlaces externos
