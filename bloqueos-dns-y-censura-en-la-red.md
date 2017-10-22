@@ -5,9 +5,12 @@ layout: default
 [volver](./)
 
 * [Bloqueos DNS y censura en la red](#bloqueos-dns-y-censura-en-la-red)
+* [Respuesta del Govern](#respuesta-del-govern )
 * [Fundació puntCAT: El organismo que regula los nombres de dominio](#fundació-puntcat-el-organismo-que-regula-los-nombres-de-dominio)
 * [Servidores DNS](#servidores-dns)
 * [Precedentes en el mundo](#precedentes-en-el-mundo)
+	* [Turquía](#turquía)
+	* [Pirate Bay](#pirate-bay)
 * [Enlaces externos](#enlaces-externos)
 
 # Bloqueos DNS y censura en la red
@@ -45,8 +48,26 @@ Parece que el señor jamestuber@gmail.com de GB aparece como el nombre del regis
 
 **Se presume que desde Madrid se ordena a ISPs (Internet Service Provider o proveedores de acceso a Internet) que bloqueen el acceso a sitios específicos, sospechamos que se produce un bloqueos DNS.**
 
-[referendum1oct.cat](http://referendum1oct.cat/) Otra de las Webs clonadas.
- 
+Otras Webs clonadas:
+
+* [referendum1oct.cat](http://referendum1oct.cat/) Otra de las Webs clonadas.
+
+
+# Respuesta del Govern 
+
+Carta del gobierno de Cataluña (24/09/2017), escrita por [Jordi Puigneró](https://ca.wikipedia.org/wiki/Jordi_Puigner%C3%B3_i_Ferrer) - [@jordiPuignero](https://twitter.com/jordipuignero?lang=es) **presidente del CTTI** (Centro de Telecomunicaciones y Tecnologías de la Información) dirigida al Vicepresidente y Comisario europeo de Mercado Único Digital (Digital Single Market) [Andrus Ansip](https://es.wikipedia.org/wiki/Andrus_Ansip) [[PDF](docs/d954e7d5-8006-40d3-bdfd-7f66d75bcdf7.pdf)].
+
+![](images/carta_generalitat_a_andrus_ansip.PNG)
+
+En la misiva el gobierno Catalán denuncia los abusos y la censura por parte del estado Español. Concretamente destaca varios artículos de la regulación de la UE que regulan el acceso libre a Internet. 
+
+![](images/carta_generalitat_a_andrus_ansip_1.PNG)
+
+Al final de la carta reseña dos medidas desproporcionadas del estado:
+
+* La orden judicial enviada a la fundación **puntCAT** solicitando la censura de cualquier Web relacionada con el referéndum.
+* La orden enviada a operadores de telecomunicaciones (**ISPs**) pidiendo bloquear los servidores proxy 
+
 
 # Fundació puntCAT: El organismo que regula los nombres de dominio
 
@@ -66,15 +87,27 @@ Es muy habitual que nuestro **ISP** (**I**nternet **S**ervice **P**rovider o Pro
 
 # Precedentes en el mundo
 
+## Turquía
+
 ![](images/turkey_dns_google.png)
 
-Tristemente la medida no es original y es algo muy predecible por otro lado. **En el 2014 el gobierno Turco trata de silenciar la oposición política y toma la misma medida aplicando el bloqueo DNS.**
+Tristemente la medida no es original y es algo muy predecible por otro lado. En el 2014 el **gobierno Turco trata de silenciar la oposición política y toma la misma medida aplicando el bloqueo DNS.**
 
 ![](images/turkey_dns_bypass_instructions.jpg)
 
 Esta medida no es extremadamente difícil de sortear, los internautas turcos cambian la configuración de sus ordenadores para usar la dirección IP de los sevidores públicos de Google (8.8.8.8 y 8.8.4.4), ahora cuando introducen la dirección de [Twitter](http://twitter.com) o de Youtube por ejemplo la resolución del nombre en números lo hace otro DNS (no solo Google presta esta servicio de DNS, ver enlace).
 
 ![](images/twitter_policy_service_interrupt_turkey.png)
+
+
+## Pirate Bay
+
+En otros ámbitos también se ha aplicado en Webs de descarga de torrents como Pirate Bay.
+
+![](images/pirate-bay-december-2013.jpg)
+
+
+![](images/upc-pirate-bay-block.jpg)
 
 # Anexos
 
@@ -100,5 +133,7 @@ Manual mesas electorales en PDF: [1505386392-mme_esp.pdf](docs/1505386392-mme_es
 * [“Google afirma que Turquía está interceptando el acceso a sus servidores DNS”](https://www.genbeta.com/actualidad/google-afirma-que-turquia-esta-interceptando-el-acceso-a-sus-servidores-dns) (genbeta – 30/03/2014).
 * [“Google’s Public DNS intercepted in Turkey”](https://security.googleblog.com/2014/03/googles-public-dns-intercepted-in-turkey.html) (security.googleblog.com – 29/03/2014)
 * [“Así funciona el bloqueo a Twitter en Turquía y así se lo están saltando”](https://www.genbeta.com/actualidad/asi-funciona-el-bloqueo-a-twitter-en-turquia-y-asi-se-lo-estan-saltando) (genbeta.com – 22/03/2014)
+* ["El Govern trasllada al Vicepresident de la Comissió Europea un escrit denunciant els abusos i la censura de l'Estat en matèria d'accés a Internet"](http://premsa.gencat.cat/pres_fsvp/AppJava/notapremsavw/303353/ca/govern-trasllada-vicepresident-comissio-europea-escrit-denunciant-abusos-censura-lestat-materia-dacces-internet.do) (premsa.gencat.cat - 24/09/2017)
+* ["Pirate Bay’s Domain Hopping Fails"](https://www.internetnews.me/2013/12/18/pirate-bays-domain-hopping-fails/).
 
 [volver](./)
