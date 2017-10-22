@@ -45,6 +45,8 @@ Todos los dominios .cat han sido retirados como resultado de la orden judicial r
 
 ## DNS tampering (DNS cache poisoning)
 
+Consiste en devolver una respuesta falsa para bloquear los nombres de dominio. Se puede omitir cambiando los servidores **DNS** (utilizando Google 8.8.8.8, por ejemplo, en lugar del servidor **DNS** del operador).
+
 
 ## Bloqueo de HTTP(S)
 
@@ -60,3 +62,4 @@ Todos los dominios .cat han sido retirados como resultado de la orden judicial r
 * Ebook ["Access Denied: The Practice and Policy of Global Internet Filtering"](https://books.google.es/books?id=l6ry0NeJ1N8C&pg=PA14&lpg=PA14&dq=DNS+tampering+que+es&source=bl&ots=i93_WnScZe&sig=bvzygiEP2Bxf8j74qNyOEp9ObZc&hl=es&sa=X&ved=0ahUKEwifid6K_IPXAhXJtRQKHQcyAQYQ6AEIeDAJ#v=onepage&q=DNS%20tampering%20que%20es&f=false) 
 * ["Update on threats to freedom of expression online in Vietnam"](https://opennet.net/blog/2012/09/update-threats-freedom-expression-online-vietnam).
 * ["Evidence of Internet Censorship during Catalonia’s Independence Referendum"](https://www.anonymous-france.eu/blocking-of-catalan-referendum-sites.html) (anonymous - 09/10/2017).
+* ["Las armas secretas del marketing independentista: el ‘big data’ y Rajoy"](https://www.elindependiente.com/politica/2017/06/02/las-armas-secretas-del-marketing-independentista-del-big-data-a-rajoy/)(elindependiente - 02/06/2017).
