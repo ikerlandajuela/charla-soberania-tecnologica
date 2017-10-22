@@ -25,8 +25,6 @@ Imagen de la citación por presunto delito de desobediencia:
 
 La policía nacional registra una vivienda en Burjassot, en el área metropolitana de València, en la que presuntamente reside un "hacker" que estaría colaborando de manera altruista en la convocatoria de la votación.
 
-
-
 Su nombre responde a Daniel Morales ([@GrenderG](https://twitter.com/GrenderG))  
 
 ![](images/daniel_morales_twitter.PNG)
@@ -47,6 +45,7 @@ Morales explica que descargó el código fuente de las páginas web cerradas y l
 El dump ha sido creado con la herramienta [wget](https://www.gnu.org/software/wget/) y los links convertidos automáticamente.
 
 # Buscando mirrors de la Web
+
 
 
 # Enlaces externos
