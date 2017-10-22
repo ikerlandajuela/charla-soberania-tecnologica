@@ -68,4 +68,5 @@ Se puede omitir cambiando los servidores **DNS** (utilizando Google 8.8.8.8, por
 
 **Vietnam:**
 
-* ["Internet censorship in Vietnam"](https://en.wikipedia.org/wiki/Internet_censorship_in_Vietnam)
+* ["Internet censorship in Vietnam"](https://en.wikipedia.org/wiki/Internet_censorship_in_Vietnam).
+* ["Ciberrepresión: ¿Cómo se censura la Internet?"](http://blogs.periodistadigital.com/felixjtapia.php/2007/08/31/ciberrepresion-icomo-se-censura-la-inter).
