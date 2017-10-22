@@ -30,7 +30,14 @@ La segunda Web espejo es **[ref1oct.cat](https://www.ref1oct.cat/)** (IP 2.20.44
 
 ![](images/ref1oct_cat_whois.PNG)
 
+![](images/jamestuber_domains.PNG)
+
 **Se presume que desde Madrid se ordena a ISPs (Internet Service Provider o proveedores de acceso a Internet) que bloqueen el acceso a sitios específicos, sospechamos que se produce un bloqueos DNS.**
+
+Enlaces:
+
+* [referendum1oct.cat](http://referendum1oct.cat/): Otra de las Webs clonadas.
+* 
 
 ## Fundació puntCAT: El organismo que regula los nombres de dominio
 
@@ -62,5 +69,8 @@ Tristemente la medida no es original y es algo muy predecible por otro lado. En 
 * [It Took Us Less Than Five Seconds To Get Past The Government's Anti-Piracy Site Blocks](https://www.gizmodo.com.au/2017/02/it-took-us-less-than-five-seconds-to-get-past-the-governments-anti-piracy-site-blocks/)
 * [How To Bypass ISP Blocking Of The Pirate Bay And Other Torrent Sites For Free](https://www.lifehacker.com.au/2016/12/how-to-bypass-isp-blocking-of-the-pirate-bay-and-other-torrent-sites-for-free/)
 * [DNS Filtering is Essential to the Internet](http://hightechforum.org/dns-filtering-is-essential-to-the-internet/)
+
+
+
 
 [volver](./)
