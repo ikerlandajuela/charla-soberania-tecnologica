@@ -5,7 +5,7 @@ layout: default
 [volver](./)
 
 * [Bloqueos DNS y censura en la red](#bloqueos-dns-y-censura-en-la-red)
-* [Fundació puntCAT: El organismo que regula los nombres de dominio](#Fundació-puntCAT:-El-organismo-que-regula-los-nombres-de-dominio)
+* [Fundació puntCAT: El organismo que regula los nombres de dominio](#fundació-puntcat-el-organismo-que-regula-los-nombres-de-dominio)
 * [Enlaces externos](#enlaces-externos)
 
 # Bloqueos DNS y censura en la red
