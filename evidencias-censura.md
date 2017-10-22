@@ -2,9 +2,13 @@
 layout: default
 ---
 
-# OONI (Open Observatory of Network Interference)
+[volver](./)
 
-**[OONI](https://ooni.torproject.org/)** [@OpenObservatory](https://twitter.com/openobservatory) se definen como un observatorio global de la red para detectar la censura. Es parte del proyecto **[Tor](https://www.torproject.org/)** ([@torproject](https://twitter.com/torproject)).
+* [Open Observatory of Network Interference](#open-Observatory-of-network-interference)
+
+# Open Observatory of Network Interference
+
+**[OONI](https://ooni.torproject.org/)** [@OpenObservatory](https://twitter.com/openobservatory) (Open Observatory of Network Interference) se definen como un observatorio global de la red para detectar la censura. Es parte del proyecto **[Tor](https://www.torproject.org/)** ([@torproject](https://twitter.com/torproject)).
 
 **OONI** usa software libre para recopilar evidencias de bloqueo de Webs.  
 
