@@ -109,6 +109,9 @@ En otros ámbitos también se ha aplicado en Webs de descarga de torrents como P
 
 ![](images/upc-pirate-bay-block.jpg)
 
+Para sortear este bloqueo la Web estuvo saltando de un dominio a otro (.gy = Guyana, .pe = Peru,...)
+
+
 # Anexos
 
 Manual mesas electorales en PDF: [1505386392-mme_esp.pdf](docs/1505386392-mme_esp.pdf)
@@ -135,5 +138,7 @@ Manual mesas electorales en PDF: [1505386392-mme_esp.pdf](docs/1505386392-mme_es
 * [“Así funciona el bloqueo a Twitter en Turquía y así se lo están saltando”](https://www.genbeta.com/actualidad/asi-funciona-el-bloqueo-a-twitter-en-turquia-y-asi-se-lo-estan-saltando) (genbeta.com – 22/03/2014)
 * ["El Govern trasllada al Vicepresident de la Comissió Europea un escrit denunciant els abusos i la censura de l'Estat en matèria d'accés a Internet"](http://premsa.gencat.cat/pres_fsvp/AppJava/notapremsavw/303353/ca/govern-trasllada-vicepresident-comissio-europea-escrit-denunciant-abusos-censura-lestat-materia-dacces-internet.do) (premsa.gencat.cat - 24/09/2017)
 * ["Pirate Bay’s Domain Hopping Fails"](https://www.internetnews.me/2013/12/18/pirate-bays-domain-hopping-fails/).
+* ["Ireland’s High Court orders six ISPs to block access to The Pirate Bay"](https://www.siliconrepublic.com/comms/irelands-high-court-orders-six-isps-to-block-access-to-the-pirate-bay).
+
 
 [volver](./)
