@@ -2,15 +2,17 @@
 layout: default
 ---
 
+![](images/manual_mesas_electorales.PNG)
+
 [volver](./)
 
 * [Bloqueos DNS y censura en la red](#bloqueos-dns-y-censura-en-la-red)
 * [Fundació puntCAT: El organismo que regula los nombres de dominio](#fundació-puntcat-el-organismo-que-regula-los-nombres-de-dominio)
+* [Servidores DNS](#servidores-dns)
+* [Precedentes en el mundo](#precedentes-en-el-mundo)
 * [Enlaces externos](#enlaces-externos)
 
 # Bloqueos DNS y censura en la red
-
-![](images/manual_mesas_electorales.PNG)
 
 La primera web del referéndum [referendum.cat](http://referendum.cat/) (dirección IP de red 2.22.126.197) fue cerrada por orden judicial el 13 de Septiembre, sólo seis días después de su publicación, sólo hay que ver el aspecto que sigue ofreciendo hoy en día (por cierto, necesitan un diseñador Web de forma urgente):
 
@@ -48,7 +50,7 @@ Parece que el señor jamestuber@gmail.com de GB aparece como el nombre del regis
 [referendum1oct.cat](http://referendum1oct.cat/) Otra de las Webs clonadas.
  
 
-## Fundació puntCAT: El organismo que regula los nombres de dominio
+# Fundació puntCAT: El organismo que regula los nombres de dominio
 
 [Fundació puntCAT](http://fundacio.cat/) ([@puntcat](https://twitter.com/puntcat)) es el organismo que de alguna manera regula los nombres de las Webs acabadas con .cat como la citada arriba referendum.cat. Actualmente tiene registrados 112.984 sitios Web con esta terminación ([servidores DNS púbicos](http://servidordenoms.cat/)). 
 
@@ -58,13 +60,13 @@ puntCAT solo regula los dominios .cat pero tiene un hermano mayor que los regula
 
 ![](images/lineros-to-marby-17sep17-en-page-001.jpg)
 
-## ¿Que son los servidores DNS?
+# Servidores DNS
 
 De manera algo sencilla, cuando introducimos [referendum.cat](http://referendum.cat/) sólo es un nombre para facilitarnos a los simples mortales recordar un sitio Web, realmente detrás de ese nombre existe una máquina identificada con un número único en Internet (simplificando mucho), como una especie de matricula, en este caso referendum.cat se traduce como “92.122.241.124” Todo ese proceso de conversión de nombre a esa serie de bloques de números separados por puntos lo hacen otras máquinas en Internet llamadas servidores **DNS** (**D**omain **N**ame **S**ystem o Sistema de Nombres de Dominio).
 
 Es muy habitual que nuestro **ISP** (*I*nternet *S*ervice *P*rovider o Proveedor de Servicios de Internet) nos proporcione esos números de los servidores **DNS** que se suelen configurar en nuestra computadora de casa.
 
-## Precedentes en el mundo
+# Precedentes en el mundo
 
 ![](images/turkey_dns_google.png)
 
