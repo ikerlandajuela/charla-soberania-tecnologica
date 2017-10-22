@@ -5,7 +5,7 @@ layout: default
 [volver](./)
 
 * [Efecto Streisand: Hactivistas y movimientos sociales]()
-* [Buscando mirrors de la Web](#buscando-mirrors-de-la-web)
+* [Buscando mirrors](#buscando-mirrors)
 * [Enlaces externos](#enlaces-externos)
 
 # Efecto Streisand: Hactivistas y movimientos sociales
@@ -44,8 +44,9 @@ Morales explica que descargó el código fuente de las páginas web cerradas y l
 
 El dump ha sido creado con la herramienta [wget](https://www.gnu.org/software/wget/) y los links convertidos automáticamente.
 
-# Buscando mirrors de la Web
+# Buscando mirrors
 
+Jordi Murgó ([GitHub jordimurgo](https://github.com/jordimurgo)) 
 
 
 # Enlaces externos
