@@ -51,6 +51,8 @@ Se puede omitir cambiando los servidores **DNS** (utilizando Google 8.8.8.8, por
 
 El caso del gobierno Chino es tan clamoroso que existen Webs que nos informan si una dirección Web está bloqueada.
 
+Ejemplo [greatfirewallofchina](http://www.greatfirewallofchina.org/):
+
 ![](images/greatfirewallofchina_block_test.PNG)
 
 
