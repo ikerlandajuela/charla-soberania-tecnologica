@@ -62,6 +62,7 @@ Jordi Murgó ([@jordimurgo](https://twitter.com/jordimurgo)) ([GitHub jordimurgo
 * ["¿Ruso? ¡Yo soy de Burjassot! El 'ejército' de informáticos que clona la web del 1-O"](https://www.elconfidencial.com/tecnologia/2017-09-28/rederendum-cataluna-hackers-webs-rusia_1451339/).
 * ["Referendum 1-O: ¿Dónde votar?"](http://www.entredevyops.es/posts/referendum-votar.html) (entredevyops - 22/09/2017): Por Daniel Aresté análisis técnico que no puede ser más de actualidad: la web de consulta del censo para el referendum del 1-O.
 * ["La policía registra el domicilio de un hacker en València vinculado al referéndum de Catalunya"](http://www.eldiario.es/cv/Registran-domicilio-Valencia-referendum-Catalunya_0_689431960.html) (eldiario - 22/09/2017).
+* ["Civil Guard Shuts Down Catalan Government's Secret Electronic Voting Plan For Sunday Referendum"](https://www.thespainreport.com/articles/1168-170930162411-civil-guard-shuts-down-catalan-government-s-secret-electronic-voting-plan-for-sunday-referendum).
 
 **Herramientas y aplicaciones:**
 
