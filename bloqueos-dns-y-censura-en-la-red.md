@@ -16,6 +16,8 @@ Esta Web tenía como propósito informar sobre la consulta, la orden de bloqueo 
 
 **Como era de predecir (para todxs excepto lxs informáticxs del gobierno de Madrid parece) surgen clones de la Web original**, la medida judicial solo alimenta una respuesta más virulenta casi imposible de detener ya. Es imposible ponerle puertas al campo. 
 
+![](images/tweets_gobern_nueva_ref1oct_cat.PNG)
+
 Inmediatamente se hicieron  públicas **dos direcciones alternativas**.
 
 **[ref1oct.eu](https://www.ref1oct.eu/)**  (IP 35.201.78.139) con dominio de la unión europea (EU=European Union) esta registrada por la empresa [EuroDNS S.A](https://www.eurodns.com/) con sede en Luxemburgo ([Google maps](https://goo.gl/maps/kKnoa9WJq4R2)). Actualmente esta Web esta inaccesible.  	 
@@ -32,12 +34,13 @@ La segunda Web espejo es **[ref1oct.cat](https://www.ref1oct.cat/)** (IP 2.20.44
 
 ![](images/jamestuber_domains.PNG)
 
+Parece que el señor jamestuber@gmail.com de GB aparece como el nombre del registrante 
+
+
 **Se presume que desde Madrid se ordena a ISPs (Internet Service Provider o proveedores de acceso a Internet) que bloqueen el acceso a sitios específicos, sospechamos que se produce un bloqueos DNS.**
 
-Enlaces:
-
-* [referendum1oct.cat](http://referendum1oct.cat/): Otra de las Webs clonadas.
-* 
+[referendum1oct.cat](http://referendum1oct.cat/) Otra de las Webs clonadas.
+ 
 
 ## Fundació puntCAT: El organismo que regula los nombres de dominio
 
