@@ -59,6 +59,7 @@ El dump ha sido creado con la herramienta [wget](https://www.gnu.org/software/wg
 * ["Referendum 1-O: ¿Dónde votar?"](http://www.entredevyops.es/posts/referendum-votar.html) (entredevyops - 22/09/2017): Por Daniel Aresté análisis técnico que no puede ser más de actualidad: la web de consulta del censo para el referendum del 1-O.
 * ["La policía registra el domicilio de un hacker en València vinculado al referéndum de Catalunya"](http://www.eldiario.es/cv/Registran-domicilio-Valencia-referendum-Catalunya_0_689431960.html) (eldiario - 22/09/2017).
 
-**Herramientas:**
+**Herramientas y aplicaciones:**
 
-* [Is It Down Right Now](http://www.isitdownrightnow.com/): monitors the status of your favorite web sites and checks whether they are down or not
+* [Is It Down Right Now](http://www.isitdownrightnow.com/): monitors the status of your favorite web sites and checks whether they are down or not.
+* **GitHub** [jordimurgo/votarem](https://github.com/jordimurgo/votarem): Copia mirall d'aquella web que de tant en tant ens anuncia el President (amb la BD de col·legis electorals).
