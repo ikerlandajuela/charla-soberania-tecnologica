@@ -46,7 +46,7 @@ El dump ha sido creado con la herramienta [wget](https://www.gnu.org/software/wg
 
 # Buscando mirrors
 
-Jordi Murgó ([@jordimurgo](https://twitter.com/jordimurgo)) ([GitHub jordimurgo](https://github.com/jordimurgo)) mantiene en su cuenta de GitHub la Web 
+Jordi Murgó ([@jordimurgo](https://twitter.com/jordimurgo)) ([GitHub jordimurgo](https://github.com/jordimurgo)) mantiene en su cuenta de GitHub un espejo de la Web original,  
 
 ![](images/jordimurgo_github_io_votarem_on_votar.PNG)
 
