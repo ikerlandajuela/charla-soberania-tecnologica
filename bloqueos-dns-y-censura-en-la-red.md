@@ -6,6 +6,8 @@ layout: default
 
 # Bloqueos DNS y censura en la red
 
+![](images/manual_mesas_electorales.PNG)
+
 La primera web del referéndum [referendum.cat](http://referendum.cat/) (dirección IP de red 2.22.126.197) fue cerrada por orden judicial el 13 de Septiembre, sólo seis días después de su publicación, sólo hay que ver el aspecto que sigue ofreciendo hoy en día (por cierto, necesitan un diseñador Web de forma urgente):
 
 ![](images/referendum_cat_blocked.png)
@@ -72,7 +74,7 @@ Tristemente la medida no es original y es algo muy predecible por otro lado. En 
 * [It Took Us Less Than Five Seconds To Get Past The Government's Anti-Piracy Site Blocks](https://www.gizmodo.com.au/2017/02/it-took-us-less-than-five-seconds-to-get-past-the-governments-anti-piracy-site-blocks/)
 * [How To Bypass ISP Blocking Of The Pirate Bay And Other Torrent Sites For Free](https://www.lifehacker.com.au/2016/12/how-to-bypass-isp-blocking-of-the-pirate-bay-and-other-torrent-sites-for-free/)
 * [DNS Filtering is Essential to the Internet](http://hightechforum.org/dns-filtering-is-essential-to-the-internet/)
-
+* [El Govern abre otra web del referéndum tras el cierre ordenado por un juez](http://www.elmundo.es/cataluna/2017/09/13/59b96a0d22601da7268b45f8.html).
 
 
 
