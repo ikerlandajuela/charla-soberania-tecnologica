@@ -46,7 +46,7 @@ El dump ha sido creado con la herramienta [wget](https://www.gnu.org/software/wg
 
 # Buscando mirrors
 
-Jordi Murgó ([GitHub jordimurgo](https://github.com/jordimurgo)) 
+Jordi Murgó ([@jordimurgo](https://twitter.com/jordimurgo)) ([GitHub jordimurgo](https://github.com/jordimurgo)) replica en su cuenta de GitHub 
 
 
 # Enlaces externos
