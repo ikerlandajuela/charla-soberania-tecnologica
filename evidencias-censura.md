@@ -16,10 +16,10 @@ layout: default
 
 **OONI** confirma el bloque de 25 sitios Web relacionados con el referéndum usando medidas como:
 
-* “DNS tampering” (manipulación de DNS)
-* “HTTP blocking” (bloqueo de HTTP),
+* **“DNS tampering”** (manipulación de DNS)
+* **“HTTP blocking”** (bloqueo de HTTP),
 
-Los datos de OONI muestran que estos sitios fueron bloqueados cada día desde (al menos) el 25 de septiembre de 2017 (cuando la prueba comenzó) hasta el día del referéndum, el 1 de octubre de 2017.
+Los datos de **OONI** muestran que estos sitios fueron bloqueados cada día desde (al menos) el 25 de septiembre de 2017 (cuando la prueba comenzó) hasta el día del referéndum, el 1 de octubre de 2017.
 
 Para recopilar evidencias que demuestran cómo los sitios asociados al referéndum catalán fueron bloqueados se usa [OONI Probe](https://ooni.torproject.org/install/) (un software gratuito y abierto que cualquiera puede ejecutar para medir el bloqueo de sitios web).
 
@@ -33,6 +33,8 @@ Listado parcial obtenido de OONI con las Webs bloqueadas:
 **France Telecom Espanña** (AS12479) y **Euskaltel*** (AS12338) bloquearon el acceso a sitios mediante la **manipulación de DNS**, mientras que **Telefónica** (AS3352) sirvió páginas de bloque **mediante el uso de proxies transparentes HTTP**. 
 
 Conviene señalar que France Telecom España (AS12479) y Euskaltel (AS12338) no bloquearon ciertos dominios .cat (referendum.cat y ref1oct.cat), probablemente porque estos sitios ya habían sido incautados. Telefónica de España (AS3352), por otro lado, reforzó la censura al servir páginas de bloque para dominios incautados.
+
+A partir del 3 de octubre de 2017, los siguientes nombres de dominio son redirigidos a [paginaintervenida.edgesuite.net](http://paginaintervenida.edgesuite.net/): piolin.cat, ref1oct.cat, empaperem.cat…
 
 
 # Enlaces externos
