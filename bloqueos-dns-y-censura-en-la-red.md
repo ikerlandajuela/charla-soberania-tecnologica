@@ -10,7 +10,7 @@ La primera web del referéndum [referendum.cat](http://referendum.cat/) (direcci
 
 ![](images/referendum_cat_blocked.png)
 
-Esta Web tenía como propósito informar sobre la consulta, la orden de bloqueo de la Web proviene del juzgado de instrucción número 13 a petición de la GC (parece que la empresa que aloja la Web es [10dencehispahard S.L. (CDmon.com)](https://www.cdmon.com/es/)).
+Esta Web tenía como propósito informar sobre la consulta, la orden de bloqueo de la Web proviene del juzgado de instrucción número 13 a petición de la GC (parece que la empresa que aloja la Web es [10dencehispahard S.L. (CDmon.com)](https://www.cdmon.com/es/)) y Akamai Technologies.
 
 ![](images/referendum_cat_whois.PNG)
 
@@ -38,6 +38,9 @@ La segunda Web espejo es **[ref1oct.cat](https://www.ref1oct.cat/)** (IP 2.20.44
 
 ![](fundacion_puntcat_web.png)
 
+puntCAT solo regula los dominios .cat pero tiene un hermano mayor que los regula a nivel mundial y se llama [ICANN](https://www.icann.org/es) (La Corporación de Internet para la Asignación de Nombres y Números con origen en EEUU). puntCAT escribe una misiva al ICANN el 17 de Septiembre [[PDF]](https://www.icann.org/en/system/files/correspondence/lineros-to-marby-17sep17-en.pdf) dirigida a [Göran Marby](https://www.icann.org/profiles/goran-marby) (presidente y CEO de ICANN, hay es nada) informando que el 15 de Septiembre las autoridades judiciales Españolas ordenan bloquear cualquier Web .cat que contenga cualquier información referente al 1 de Octubre. Tachan las prácticas de censura y ataque a la libertad de expresión, la carta está firmada a su vez por [Eduard Martin Lineros](http://fundacio.cat/es/noticias/eduard-martin-lineros-nuevo-director-general-de-la-fundacio-puntcat) CEO y fundador de puntCAT.
+
+![](images/lineros-to-marby-17sep17-en-page-001.jpg)
 
 ## Enlaces externos
 
