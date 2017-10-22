@@ -6,7 +6,7 @@ layout: default
 
 * [Efecto Streisand: Hactivistas y movimientos sociales]()
 * [Buscando mirrors](#buscando-mirrors)
-* [Enlaces externos](#enlaces-externos)
+* [Enlaces externos](#enlaces-externos).
 
 # Efecto Streisand: Hactivistas y movimientos sociales
 
@@ -46,7 +46,10 @@ El dump ha sido creado con la herramienta [wget](https://www.gnu.org/software/wg
 
 # Buscando mirrors
 
-Jordi Murgó ([@jordimurgo](https://twitter.com/jordimurgo)) ([GitHub jordimurgo](https://github.com/jordimurgo)) replica en su cuenta de GitHub 
+Jordi Murgó ([@jordimurgo](https://twitter.com/jordimurgo)) ([GitHub jordimurgo](https://github.com/jordimurgo)) mantiene en su cuenta de GitHub la Web 
+
+![](images/jordimurgo_github_io_votarem_on_votar.PNG)
+
 
 
 # Enlaces externos
