@@ -42,7 +42,6 @@ puntCAT solo regula los dominios .cat pero tiene un hermano mayor que los regula
 
 ![](images/lineros-to-marby-17sep17-en-page-001.jpg)
 
-
 ## ¿Que son los servidores DNS?
 
 
@@ -50,6 +49,8 @@ puntCAT solo regula los dominios .cat pero tiene un hermano mayor que los regula
 ## Enlaces externos
 
 * [El TSJC pide a empresas documentación sobre la gestión de los ordenadores del 9N](http://www.catalunyapress.es/texto-diario/mostrar/371930/tsjc-pide-empresas-documentacion-sobre-gestion-ordenadores-9n)
-* 
+* [What is a DNS block and 3 ways to get around it](http://blogjunkie.net/2011/06/get-around-dns-block-filter/)
+* [It Took Us Less Than Five Seconds To Get Past The Government's Anti-Piracy Site Blocks](https://www.gizmodo.com.au/2017/02/it-took-us-less-than-five-seconds-to-get-past-the-governments-anti-piracy-site-blocks/)
+* [How To Bypass ISP Blocking Of The Pirate Bay And Other Torrent Sites For Free](https://www.lifehacker.com.au/2016/12/how-to-bypass-isp-blocking-of-the-pirate-bay-and-other-torrent-sites-for-free/)
 
 [volver](./)
