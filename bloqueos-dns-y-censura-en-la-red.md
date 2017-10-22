@@ -20,10 +20,16 @@ Inmediatamente se hicieron  públicas **dos direcciones alternativas**.
 
 ![](images/ref1oct_eu_404.png)
 
-Una consulta [WHOIS](https://whois.net/) muestra algunos datos sobre la empresa que registra el nombre, [Xabier Buck](https://www.linkedin.com/in/xavierbuck/) solo es un directivo de la empresa EuroDNS que ofrece servicios de alojamiento a miles de otras Webs.  
+Una consulta [Whois](https://whois.net/) muestra algunos datos sobre la empresa que registra el nombre, [Xabier Buck](https://www.linkedin.com/in/xavierbuck/) solo es un directivo de la empresa EuroDNS que ofrece servicios de alojamiento a miles de otras Webs.  
 
 ![](images/eurodns_whois.png)
 
+La segunda Web espejo es **[ref1oct.cat](https://www.ref1oct.cat/)** (IP 2.20.44.196) y se encuentra intervenida por autoridad judicial como la original. Se pueden obtener más datos del registrante del nombre ref1oct.cat realizando una [consulta Whois en fundacio.cat](http://fundacio.cat/es/whois).
+
+![](images/ref1oct_cat_whois.PNG)
+
+
+**Se presume que desde Madrid se ordena a ISPs (Internet Service Provider o proveedores de acceso a Internet) que bloqueen el acceso a sitios específicos, sospechamos que se produce un bloqueos DNS.**
 
 
 ## Enlaces externos
