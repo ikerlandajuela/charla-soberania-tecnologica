@@ -99,8 +99,12 @@ Esta medida no es extremadamente difícil de sortear, los internautas turcos cam
 
 ![](images/twitter_policy_service_interrupt_turkey.png)
 
-Otros países aplican este tipo de bloqueos de forma más habitual. El gobierno Chino es conocido por bloquear sitios de noticias como BBC News o Voice of America, sitios relativos al gobierno Taiwanés y sus instituciones, páginas que contengan información sobre el movimiento de liberación del Tibet 
+Uno de los objetivos predilectos de estos estados suelen ser las redes sociales. Turquía no es el primero ni el último en restringir el uso de las redes sociales y las plataformas de internet. La lista es muy larga e incluye paises como: China, Vietnam, Turquía, Iran, Corea del Norte y ahora España. 
 
+El gobierno Chino es conocido por bloquear sitios de noticias o páginas que contengan información sobre el movimiento de liberación del Tibet entre otras muchas.
+
+
+![](images/socialmediamap-1.jpg)
 
 
 ## Pirate Bay
@@ -142,6 +146,7 @@ Manual mesas electorales en PDF: [1505386392-mme_esp.pdf](docs/1505386392-mme_es
 * ["El Govern trasllada al Vicepresident de la Comissió Europea un escrit denunciant els abusos i la censura de l'Estat en matèria d'accés a Internet"](http://premsa.gencat.cat/pres_fsvp/AppJava/notapremsavw/303353/ca/govern-trasllada-vicepresident-comissio-europea-escrit-denunciant-abusos-censura-lestat-materia-dacces-internet.do) (premsa.gencat.cat - 24/09/2017)
 * ["Pirate Bay’s Domain Hopping Fails"](https://www.internetnews.me/2013/12/18/pirate-bays-domain-hopping-fails/).
 * ["Ireland’s High Court orders six ISPs to block access to The Pirate Bay"](https://www.siliconrepublic.com/comms/irelands-high-court-orders-six-isps-to-block-access-to-the-pirate-bay).
-
+* ["MAP: Here Are the Countries That Block Facebook, Twitter, and YouTube"](http://www.motherjones.com/politics/2014/03/turkey-facebook-youtube-twitter-blocked/)(motherjones - 28/03/2014).
+* ["Bangladesh imposes YouTube block"](http://news.bbc.co.uk/2/hi/7932659.stm) (bbc - 09/03/2009).
 
 [volver](./)
