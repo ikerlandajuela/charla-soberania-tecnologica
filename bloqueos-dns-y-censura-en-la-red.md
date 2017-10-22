@@ -4,6 +4,9 @@ layout: default
 
 [volver](./)
 
+* [Bloqueos DNS y censura en la red](#Bloqueos-DNS-y-censura-en-la-red)
+* [Fundació puntCAT: El organismo que regula los nombres de dominio](#Fundació-puntCAT:-El-organismo-que-regula-los-nombres-de-dominio)
+
 # Bloqueos DNS y censura en la red
 
 ![](images/manual_mesas_electorales.PNG)
@@ -75,7 +78,7 @@ Tristemente la medida no es original y es algo muy predecible por otro lado. En 
 * [How To Bypass ISP Blocking Of The Pirate Bay And Other Torrent Sites For Free](https://www.lifehacker.com.au/2016/12/how-to-bypass-isp-blocking-of-the-pirate-bay-and-other-torrent-sites-for-free/)
 * [DNS Filtering is Essential to the Internet](http://hightechforum.org/dns-filtering-is-essential-to-the-internet/)
 * [El Govern abre otra web del referéndum tras el cierre ordenado por un juez](http://www.elmundo.es/cataluna/2017/09/13/59b96a0d22601da7268b45f8.html).
-
+* [Correos ordena no entregar ninguna carta referente al 1-O](http://www.larazon.es/espana/correos-ordena-no-entregar-ninguna-carta-referente-al-1-o-HF15983631?sky=Sky-Septiembre-2017#Ttt1FVU3Frj0kCjH).
 
 
 [volver](./)
