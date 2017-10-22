@@ -4,7 +4,8 @@ layout: default
 
 [volver](./)
 
-* [Open Observatory of Network Interference](#open-Observatory-of-network-interference)
+* [Open Observatory of Network Interference](#open-Observatory-of-network-interference).
+* [Técnicas para censurar sitios web](#técnicas-para-censurar-sitios-web)
 
 # Open Observatory of Network Interference
 
@@ -30,11 +31,17 @@ Listado parcial obtenido de OONI con las Webs bloqueadas:
 
 **[referendum.cat](http://referendum.cat/)** fue redirigido al dominio	 **[paginaintervenida.edgesuite.net](http://paginaintervenida.edgesuite.net/)** alojado por Akamai el 13 de septiembre.
 
+![](images/referendum_cat_paginaintervenida.PNG)
+
 **France Telecom Espanña** (AS12479) y **Euskaltel*** (AS12338) bloquearon el acceso a sitios mediante la **manipulación de DNS**, mientras que **Telefónica** (AS3352) sirvió páginas de bloque **mediante el uso de proxies transparentes HTTP**. 
 
 Conviene señalar que France Telecom España (AS12479) y Euskaltel (AS12338) no bloquearon ciertos dominios .cat (referendum.cat y ref1oct.cat), probablemente porque estos sitios ya habían sido incautados. Telefónica de España (AS3352), por otro lado, reforzó la censura al servir páginas de bloque para dominios incautados.
 
-A partir del 3 de octubre de 2017, los siguientes nombres de dominio son redirigidos a [paginaintervenida.edgesuite.net](http://paginaintervenida.edgesuite.net/): piolin.cat, ref1oct.cat, empaperem.cat…
+A partir del **3 de octubre de 2017**, los siguientes **nombres de dominio son redirigidos a [paginaintervenida.edgesuite.net](http://paginaintervenida.edgesuite.net/)**: piolin.cat, ref1oct.cat, empaperem.cat…
+
+Todos los dominios .cat han sido retirados como resultado de la orden judicial recibida por Fundacio .cat el 15 de septiembre del Tribunal Superior de Justicia de Cataluña. El director de investigación e información de la organización que dirige el dominio catalán de nivel superior .cat, Pep Oliver, fue detenido el 20 de septiembre y mantenido bajo custodia durante 60 horas.
+
+# Técnicas para censurar sitios web 
 
 
 # Enlaces externos
