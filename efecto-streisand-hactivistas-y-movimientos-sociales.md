@@ -64,6 +64,7 @@ Jordi Murgó ([@jordimurgo](https://twitter.com/jordimurgo)) ([GitHub jordimurgo
 * ["La policía registra el domicilio de un hacker en València vinculado al referéndum de Catalunya"](http://www.eldiario.es/cv/Registran-domicilio-Valencia-referendum-Catalunya_0_689431960.html) (eldiario - 22/09/2017).
 * ["Civil Guard Shuts Down Catalan Government's Secret Electronic Voting Plan For Sunday Referendum"](https://www.thespainreport.com/articles/1168-170930162411-civil-guard-shuts-down-catalan-government-s-secret-electronic-voting-plan-for-sunday-referendum).
 
+
 **Herramientas y aplicaciones:**
 
 * [Is It Down Right Now](http://www.isitdownrightnow.com/): monitors the status of your favorite web sites and checks whether they are down or not.
