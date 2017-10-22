@@ -37,9 +37,11 @@ Auto que autoriza el registro domiciliario del joven de Burjassot al que acusan 
 
 Morales explica que descargó el código fuente de las páginas web cerradas y lo alojó en la **[plataforma GitHub](https://github.com/grenderg)** para la compartirlo y hacerlo público para que todo el mundo pudiese replicar las páginas web. Es lo que se conoce como “mirror”, las webs que albergan el mismo contenido que otras, como si fueran “clones”.
 
-“Cuando la policía vino a mi casa estaba descargando las bases de datos que contienen información sobre los colegios electorales. El ordenador estaba encendido y en una pantalla tenía el script que hice para descargarlas y en la otra las propias bases de datos descargándose”, explica.
+> “Cuando la policía vino a mi casa estaba descargando las bases de datos que contienen información sobre los colegios electorales. El ordenador estaba encendido y en una pantalla tenía el script que hice para descargarlas y en la otra las propias bases de datos descargándose”
 
 ![](images/daniel_morales_1.PNG)
+
+El dump ha sido creado con la herramienta [wget](https://www.gnu.org/software/wget/) y los links convertidos automáticamente
 
 
 # Enlaces externos
