@@ -5,6 +5,8 @@ layout: default
 
 > "Las sociedades avanzan, en muchas ocasiones, a base de desobediencias”,
 
+![](Soberania_tecnologica01-02.jpg)
+
 # Entradas
 
 ## Sociedad civil frente a la censura
