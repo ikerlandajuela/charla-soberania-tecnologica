@@ -87,7 +87,7 @@ Es muy habitual que nuestro **ISP** (**I**nternet **S**ervice **P**rovider o Pro
 
 # Precedentes en el mundo
 
-## Turquía
+## Gobiernos
 
 ![](images/turkey_dns_google.png)
 
@@ -98,6 +98,9 @@ Tristemente la medida no es original y es algo muy predecible por otro lado. En 
 Esta medida no es extremadamente difícil de sortear, los internautas turcos cambian la configuración de sus ordenadores para usar la dirección IP de los sevidores públicos de Google (8.8.8.8 y 8.8.4.4), ahora cuando introducen la dirección de [Twitter](http://twitter.com) o de Youtube por ejemplo la resolución del nombre en números lo hace otro DNS (no solo Google presta esta servicio de DNS, ver enlace).
 
 ![](images/twitter_policy_service_interrupt_turkey.png)
+
+Otros países aplican este tipo de bloqueos de forma más habitual. El gobierno Chino es conocido por bloquear sitios de noticias como BBC News o Voice of America, sitios relativos al gobierno Taiwanés y sus instituciones, páginas que contengan información sobre el movimiento de liberación del Tibet 
+
 
 
 ## Pirate Bay

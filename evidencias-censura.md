@@ -47,6 +47,7 @@ Todos los dominios .cat han sido retirados como resultado de la orden judicial r
 
 Consiste en intervenir los servidores **DNS**, estos son los que resuelven un nombre de dominio en una dirección IP de red. Normalmente cada **ISP** (proveedores de acceso a Internet como Euskaltel, Vodafone o Telefónica) mantiene su propio servidor **DNS** para sus clientes. Para bloquear el acceso a sitios Web los servidores **DNS** se configuran para retornar una dirección incorrecta (pueden redireccionar la llamada a otra Web).
 
+
 Se puede omitir cambiando los servidores **DNS** (utilizando Google 8.8.8.8, por ejemplo, en lugar del servidor **DNS** del operador).
 
 
