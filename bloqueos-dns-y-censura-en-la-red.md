@@ -6,11 +6,13 @@ layout: default
 
 # Bloqueos DNS y censura en la red
 
-La primera web del referéndum [referendum.cat](http://referendum.cat/) (dirección IP de red 92.122.241.124) fue cerrada por orden judicial el 13 de Septiembre, sólo seis días después de su publicación, sólo hay que ver el aspecto que sigue ofreciendo hoy en día (por cierto, necesitan un diseñador Web de forma urgente):
+La primera web del referéndum [referendum.cat](http://referendum.cat/) (dirección IP de red 2.22.126.197) fue cerrada por orden judicial el 13 de Septiembre, sólo seis días después de su publicación, sólo hay que ver el aspecto que sigue ofreciendo hoy en día (por cierto, necesitan un diseñador Web de forma urgente):
 
 ![](images/referendum_cat_blocked.png)
 
-Esta Web tenía como propósito informar sobre la consulta, la orden de bloqueo de la Web proviene del juzgado de instrucción número 13 a petición de la GC (parece que la empresa que aloja la Web es [CD Mon](https://www.cdmon.com/es/)).
+Esta Web tenía como propósito informar sobre la consulta, la orden de bloqueo de la Web proviene del juzgado de instrucción número 13 a petición de la GC (parece que la empresa que aloja la Web es [10dencehispahard S.L. (CDmon.com)](https://www.cdmon.com/es/)).
+
+![](images/referendum_cat_whois.PNG)
 
 **Como era de predecir (para todxs excepto lxs informáticxs del gobierno de Madrid parece) surgen clones de la Web original**, la medida judicial solo alimenta una respuesta más virulenta casi imposible de detener ya. Es imposible ponerle puertas al campo. 
 
@@ -28,7 +30,6 @@ La segunda Web espejo es **[ref1oct.cat](https://www.ref1oct.cat/)** (IP 2.20.44
 
 ![](images/ref1oct_cat_whois.PNG)
 
-
 **Se presume que desde Madrid se ordena a ISPs (Internet Service Provider o proveedores de acceso a Internet) que bloqueen el acceso a sitios específicos, sospechamos que se produce un bloqueos DNS.**
 
 ## Fundació puntCAT: El organismo que regula los nombres de dominio
@@ -40,6 +41,7 @@ La segunda Web espejo es **[ref1oct.cat](https://www.ref1oct.cat/)** (IP 2.20.44
 
 ## Enlaces externos
 
+* [El TSJC pide a empresas documentación sobre la gestión de los ordenadores del 9N](http://www.catalunyapress.es/texto-diario/mostrar/371930/tsjc-pide-empresas-documentacion-sobre-gestion-ordenadores-9n)
 * 
 
 [volver](./)
