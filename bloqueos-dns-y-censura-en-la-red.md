@@ -2,8 +2,6 @@
 layout: default
 ---
 
-![](images/manual_mesas_electorales.PNG)
-
 [volver](./)
 
 * [Bloqueos DNS y censura en la red](#bloqueos-dns-y-censura-en-la-red)
@@ -64,13 +62,26 @@ puntCAT solo regula los dominios .cat pero tiene un hermano mayor que los regula
 
 De manera algo sencilla, cuando introducimos [referendum.cat](http://referendum.cat/) sólo es un nombre para facilitarnos a los simples mortales recordar un sitio Web, realmente detrás de ese nombre existe una máquina identificada con un número único en Internet (simplificando mucho), como una especie de matricula, en este caso referendum.cat se traduce como “92.122.241.124” Todo ese proceso de conversión de nombre a esa serie de bloques de números separados por puntos lo hacen otras máquinas en Internet llamadas servidores **DNS** (**D**omain **N**ame **S**ystem o Sistema de Nombres de Dominio).
 
-Es muy habitual que nuestro **ISP** (*I*nternet *S*ervice *P*rovider o Proveedor de Servicios de Internet) nos proporcione esos números de los servidores **DNS** que se suelen configurar en nuestra computadora de casa.
+Es muy habitual que nuestro **ISP** (**I**nternet **S**ervice **P**rovider o Proveedor de Servicios de Internet) nos proporcione esos números de los servidores **DNS** que se suelen configurar en nuestra computadora de casa.
 
 # Precedentes en el mundo
 
 ![](images/turkey_dns_google.png)
 
-Tristemente la medida no es original y es algo muy predecible por otro lado. En el 2014 el gobierno Turco trata de silenciar la oposición política y toma la misma medida (que escandaloso resulta para algunos cuando esto pasa en Turquía) aplicando el bloqueo DNS.
+Tristemente la medida no es original y es algo muy predecible por otro lado. **En el 2014 el gobierno Turco trata de silenciar la oposición política y toma la misma medida aplicando el bloqueo DNS.**
+
+![](images/turkey_dns_bypass_instructions.jpg)
+
+Esta medida no es extremadamente difícil de sortear, los internautas turcos cambian la configuración de sus ordenadores para usar la dirección IP de los sevidores públicos de Google (8.8.8.8 y 8.8.4.4), ahora cuando introducen la dirección de [Twitter](http://twitter.com) o de Youtube por ejemplo la resolución del nombre en números lo hace otro DNS (no solo Google presta esta servicio de DNS, ver enlace).
+
+![](images/twitter_policy_service_interrupt_turkey.png)
+
+# Anexos
+
+Manual mesas electorales en PDF: [1505386392-mme_esp.pdf](docs/1505386392-mme_esp.pdf)
+
+
+![](images/manual_mesas_electorales.PNG)
 
 
 ## Enlaces externos
@@ -82,6 +93,12 @@ Tristemente la medida no es original y es algo muy predecible por otro lado. En 
 * [DNS Filtering is Essential to the Internet](http://hightechforum.org/dns-filtering-is-essential-to-the-internet/)
 * [El Govern abre otra web del referéndum tras el cierre ordenado por un juez](http://www.elmundo.es/cataluna/2017/09/13/59b96a0d22601da7268b45f8.html).
 * [Correos ordena no entregar ninguna carta referente al 1-O](http://www.larazon.es/espana/correos-ordena-no-entregar-ninguna-carta-referente-al-1-o-HF15983631?sky=Sky-Septiembre-2017#Ttt1FVU3Frj0kCjH).
-
+* [“Catalan government opens new referendum website after original is shut down by Spain”](http://www.catalannews.com/politics/item/catalan-government-opens-new-referendum-website-after-original-is-shut-down-by-spain) (catalannews.com – 14/09/2017).
+* [“Un juez cierra la web de la Generalitat sobre el referéndum de Cataluña”](https://elpais.com/ccaa/2017/09/13/catalunya/1505324341_709098.html)(elpais.com – 14/09/2017).
+* [“Spanish govt slammed over bizarre Catalan .cat internet registry cop raid”](https://www.theregister.co.uk/2017/09/23/spanish_government_criticized_over_catalan_internet_registry_raid/) (theregister.co.uk – 23/09/2017).
+* [“¡Dios mío! Spain blocks DNS to hush Catalonian independence vote sites”](https://www.theregister.co.uk/2017/09/27/spain_expands_dns_blocking_over_catalan_independence_vote/) (theregister.co.uk – 27/09/2017)
+* [“Google afirma que Turquía está interceptando el acceso a sus servidores DNS”](https://www.genbeta.com/actualidad/google-afirma-que-turquia-esta-interceptando-el-acceso-a-sus-servidores-dns) (genbeta – 30/03/2014).
+* [“Google’s Public DNS intercepted in Turkey”](https://security.googleblog.com/2014/03/googles-public-dns-intercepted-in-turkey.html) (security.googleblog.com – 29/03/2014)
+* [“Así funciona el bloqueo a Twitter en Turquía y así se lo están saltando”](https://www.genbeta.com/actualidad/asi-funciona-el-bloqueo-a-twitter-en-turquia-y-asi-se-lo-estan-saltando) (genbeta.com – 22/03/2014)
 
 [volver](./)
