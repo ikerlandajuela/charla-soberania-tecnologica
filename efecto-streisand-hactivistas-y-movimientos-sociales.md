@@ -22,8 +22,22 @@ Imagen de la citación por presunto delito de desobediencia:
 
 La policía nacional registra una vivienda en Burjassot, en el área metropolitana de València, en la que presuntamente reside un "hacker" que estaría colaborando de manera altruista en la convocatoria de la votación.
 
-Su nombre responde a Daniel Morales (@GrenderG) 
 
+
+Su nombre responde a Daniel Morales ([@GrenderG](https://twitter.com/GrenderG))  
+
+![](images/daniel_morales_twitter.PNG)
+
+Auto que autoriza el registro domiciliario del joven de Burjassot al que acusan de delito de desobediencia (Vía [@censura1oct](https://twitter.com/censura1oct)):
+
+![](images/morales_orden_registro_domicilio_1.jpg)
+![](images/morales_orden_registro_domicilio_2.jpg)
+![](images/morales_orden_registro_domicilio_3.jpg)
+
+
+Morales explica que descargó el código fuente de las páginas web cerradas y lo alojó en la **[plataforma GitHub](https://github.com/grenderg)** para la compartirlo y hacerlo público para que todo el mundo pudiese replicar las páginas web. Es lo que se conoce como “mirror”, las webs que albergan el mismo contenido que otras, como si fueran “clones”.
+
+“Cuando la policía vino a mi casa estaba descargando las bases de datos que contienen información sobre los colegios electorales. El ordenador estaba encendido y en una pantalla tenía el script que hice para descargarlas y en la otra las propias bases de datos descargándose”, explica.
 
 ![](images/daniel_morales_1.PNG)
 
@@ -38,3 +52,7 @@ Su nombre responde a Daniel Morales (@GrenderG)
 * ["¿Ruso? ¡Yo soy de Burjassot! El 'ejército' de informáticos que clona la web del 1-O"](https://www.elconfidencial.com/tecnologia/2017-09-28/rederendum-cataluna-hackers-webs-rusia_1451339/).
 * ["Referendum 1-O: ¿Dónde votar?"](http://www.entredevyops.es/posts/referendum-votar.html) (entredevyops - 22/09/2017): Por Daniel Aresté análisis técnico que no puede ser más de actualidad: la web de consulta del censo para el referendum del 1-O.
 * ["La policía registra el domicilio de un hacker en València vinculado al referéndum de Catalunya"](http://www.eldiario.es/cv/Registran-domicilio-Valencia-referendum-Catalunya_0_689431960.html) (eldiario - 22/09/2017).
+
+**Herramientas:**
+
+* [Is It Down Right Now](http://www.isitdownrightnow.com/): monitors the status of your favorite web sites and checks whether they are down or not
