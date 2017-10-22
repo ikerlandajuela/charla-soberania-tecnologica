@@ -46,7 +46,7 @@ El dump ha sido creado con la herramienta [wget](https://www.gnu.org/software/wg
 
 # Buscando mirrors
 
-Jordi Murgó ([@jordimurgo](https://twitter.com/jordimurgo)) ([GitHub jordimurgo](https://github.com/jordimurgo)) mantiene en su cuenta de GitHub un espejo de la Web original totalmente funcional, tanto que permite consultar el centro de votación introduciendo el DNI la fecha de nacimiento y el Código Postal. La única forma de que la Web sea tan portable que permita crear nuevas réplicas en pocos minutos es porque **la base de datos de los centros electorales y la población esta incrustada con la Web en vez de usar un sistema de gestión de base de datos externo**. 
+Jordi Murgó ([@jordimurgo](https://twitter.com/jordimurgo)) ([GitHub jordimurgo](https://github.com/jordimurgo)) mantiene en su cuenta de GitHub un espejo de la Web original totalmente funcional, tanto que permite consultar el centro de votación introduciendo el DNI la fecha de nacimiento y el Código Postal. El diseño de la web del referendum es francamente ingenioso, la única forma de que la Web sea tan portable que permita crear nuevas réplicas en pocos minutos es porque **la base de datos de los centros electorales y la población esta incrustada con la Web en vez de usar un sistema de gestión de base de datos externo**. 
 	  
 ![](images/jordimurgo_github_io_votarem_on_votar.PNG)
 
