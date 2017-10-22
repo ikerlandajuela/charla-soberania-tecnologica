@@ -44,6 +44,15 @@ puntCAT solo regula los dominios .cat pero tiene un hermano mayor que los regula
 
 ## ¿Que son los servidores DNS?
 
+De manera algo sencilla, cuando introducimos [referendum.cat](http://referendum.cat/) sólo es un nombre para facilitarnos a los simples mortales recordar un sitio Web, realmente detrás de ese nombre existe una máquina identificada con un número único en Internet (simplificando mucho), como una especie de matricula, en este caso referendum.cat se traduce como “92.122.241.124” Todo ese proceso de conversión de nombre a esa serie de bloques de números separados por puntos lo hacen otras máquinas en Internet llamadas servidores **DNS** (**D**omain **N**ame **S**ystem o Sistema de Nombres de Dominio).
+
+Es muy habitual que nuestro **ISP** (*I*nternet *S*ervice *P*rovider o Proveedor de Servicios de Internet) nos proporcione esos números de los servidores **DNS** que se suelen configurar en nuestra computadora de casa.
+
+## Precedentes en el mundo
+
+![](images/turkey_dns_google.png)
+
+Tristemente la medida no es original y es algo muy predecible por otro lado. En el 2014 el gobierno Turco trata de silenciar la oposición política y toma la misma medida (que escandaloso resulta para algunos cuando esto pasa en Turquía) aplicando el bloqueo DNS.
 
 
 ## Enlaces externos
@@ -52,5 +61,6 @@ puntCAT solo regula los dominios .cat pero tiene un hermano mayor que los regula
 * [What is a DNS block and 3 ways to get around it](http://blogjunkie.net/2011/06/get-around-dns-block-filter/)
 * [It Took Us Less Than Five Seconds To Get Past The Government's Anti-Piracy Site Blocks](https://www.gizmodo.com.au/2017/02/it-took-us-less-than-five-seconds-to-get-past-the-governments-anti-piracy-site-blocks/)
 * [How To Bypass ISP Blocking Of The Pirate Bay And Other Torrent Sites For Free](https://www.lifehacker.com.au/2016/12/how-to-bypass-isp-blocking-of-the-pirate-bay-and-other-torrent-sites-for-free/)
+* [DNS Filtering is Essential to the Internet](http://hightechforum.org/dns-filtering-is-essential-to-the-internet/)
 
 [volver](./)
