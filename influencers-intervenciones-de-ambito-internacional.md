@@ -22,7 +22,9 @@ Cuando se produce el primer bloqueo de los sitios .cat es el propio Carles Puigd
 
 ![](images/puigdemont_tweet_proxy.jpg)
 
-Con una aplicación Web como [Lagado Proxy Test](http://www.lagado.com/proxy-test) es fácil comprobar como un servicio Proxy enmascara la IP de origen de nuestra conexión a Internet, primero accedemos a la Web [Lagado Proxy Test](http://www.lagado.com/proxy-test) con nuestro navegador y en otra pestaña accedemos a la misma Web usando [HIDEme](https://hide.me/es/proxy), los resultados son diferentes
+Con una aplicación Web como [Lagado Proxy Test](http://www.lagado.com/proxy-test) es fácil comprobar como **un servicio Proxy enmascara la IP de origen de nuestra conexión a Internet**, primero accedemos a la Web [Lagado Proxy Test](http://www.lagado.com/proxy-test) con nuestro navegador y en otra pestaña accedemos a la misma Web usando [HIDEme](https://hide.me/es/proxy), los resultados son diferentes. Cuando accedo con [HIDEme](https://hide.me/es/proxy) la IP de origen es una dirección en Amsterdam ([consulta Whois de la IP](https://www.whatismyip.com/ip-whois-lookup/)).
+
+
 
 # Enlaces externos
 
