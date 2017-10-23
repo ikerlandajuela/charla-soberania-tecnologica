@@ -2,10 +2,20 @@
 layout: default
 ---
 
-
 > "Las sociedades avanzan, en muchas ocasiones, a base de desobediencias”,
 
-![](Soberania_tecnologica01-02.jpg)
+# Índice
+
+* [Contenido](#contenido)
+	* Resumen programa 
+	* Datos contacto y lugar
+	* Participantes
+	* [Entradas](#entradas)
+		
+![](Soberania_tecnologica_AF.jpg)
+
+
+# Contenido
 
 # Entradas
 
