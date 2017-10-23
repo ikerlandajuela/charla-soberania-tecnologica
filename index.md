@@ -14,12 +14,18 @@ layout: default
 		
 ![](Soberania_tecnologica_AF.jpg)
 
-
 # Contenido
 
-# Entradas
+## Resumen programa
 
-## Sociedad civil frente a la censura
+## Datos de contacto y lugar
+
+* Correo electrónico: ikastaroak.kulturetxea@gmail.com
+* Correo electrónico alternativo: kulturetxeabizirik@gmail.com
+
+## Entradas
+
+### Sociedad civil frente a la censura
 
 * [Bloqueos DNS y censura en la red](bloqueos-dns-y-censura-en-la-red.md).
 * [Buscando evidencias de la censura](evidencias-censura.md).
