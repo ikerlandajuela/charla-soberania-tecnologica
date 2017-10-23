@@ -4,6 +4,8 @@ layout: default
 
 [volver](./)
 
+El 26 de Septiembre Martes aparece en escena [Julian Assange](https://es.wikipedia.org/wiki/Julian_Assange) realizando una videoconferencia en una pantalla gigante en plena calle. 
+
 [![IMAGE ALT TEXT](images/videoconferencia_assange_bcn.jpg)](https://www.youtube.com/watch?v=gaad6eZrwMs "Primers 10 minuts videoconferencia Julian Assange (Youtube)")
 
 Pinchar sobre la imagen para ver parte de la videoconferencia.
@@ -15,5 +17,6 @@ Desde un primer momento todo el proceso a sido seguido a nivel internacional, Ca
 # Enlaces externos
 
 * ["Assange alienta que la rebelión en Cataluña se extienda a nivel global”](https://elpais.com/ccaa/2017/09/26/catalunya/1506456387_836185.html) (elpais). 
+* [“Assange y Snowden, entre los tuiteros más influyentes sobre referéndum catalán”]()
 
 [volver](./)
