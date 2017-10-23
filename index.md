@@ -7,10 +7,10 @@ layout: default
 # Índice
 
 * [Contenido](#contenido)
-	* Resumen programa 
-	* Datos contacto y lugar
-	* Participantes
-	* [Entradas](#entradas)
+	* Resumen programa. 
+	* Datos contacto y lugar.
+	* Participantes.
+	* [Entradas](#entradas).
 		
 ![](Soberania_tecnologica_AF.jpg)
 
