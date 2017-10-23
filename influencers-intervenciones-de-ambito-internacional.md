@@ -24,7 +24,10 @@ Cuando se produce el primer bloqueo de los sitios .cat es el propio Carles Puigd
 
 Con una aplicación Web como [Lagado Proxy Test](http://www.lagado.com/proxy-test) es fácil comprobar como **un servicio Proxy enmascara la IP de origen de nuestra conexión a Internet**, primero accedemos a la Web [Lagado Proxy Test](http://www.lagado.com/proxy-test) con nuestro navegador y en otra pestaña accedemos a la misma Web usando [HIDEme](https://hide.me/es/proxy), los resultados son diferentes. Cuando accedo con [HIDEme](https://hide.me/es/proxy) la IP de origen es una dirección en Amsterdam ([consulta Whois de la IP](https://www.whatismyip.com/ip-whois-lookup/)).
 
-Otro de los usuarios más influyentes junto con Assange es **Edward Snowden** ([@Snowden](https://twitter.com/Snowden)).
+Otro de los usuarios más influyentes junto con Assange es **Edward Snowden** ([@Snowden](https://twitter.com/Snowden)). Solo el Tweet de la imagen de abajo ha sido retweeteado por casi 9000 cuentas.
+
+![](images/snowden_tweet_1.PNG)
+
 
 # Enlaces externos
 
@@ -35,6 +38,8 @@ Otro de los usuarios más influyentes junto con Assange es **Edward Snowden** ([
 * ["Assange arenga a las masas en directo en Barcelona y compara España con China"](https://www.elconfidencial.com/espana/cataluna/2017-09-26/referendum-cataluna-julian-assange-defiende-independencia-barcelona_1450288/).
 * ["Puigdemont explica cómo 'hackear' las páginas web del referéndum que han sido bloqueadas"](http://www.elmundo.es/cataluna/2017/09/16/59bd843a46163fe4788b45bc.html).
 * [" “Por qué España no podría cortar internet a toda Cataluña (como asegura Assange)”](https://www.elconfidencial.com/tecnologia/2017-09-20/referendum-cataluna-julian-assange-internet-bloqueo_1447056/).
+* ["Snowden denuncia "la violación de derechos humanos" en Catalunya"](http://www.elnacional.cat/es/politica/snowden-referendum-catalunya_193899_102.html).
+* [“La conexión moscovita del 'procés' con los hackers rusos”](http://www.elmundo.es/cronica/2017/10/04/59cfd94ae5fdea54288b45d2.html) (elmundo.es - 04/10/2017).
 
 ## Plataformas y movimientos
 
@@ -47,5 +52,8 @@ Otro de los usuarios más influyentes junto con Assange es **Edward Snowden** ([
 * [ProxySite](https://www.proxysite.com/es/).
 * [Lagado Proxy Test](http://www.lagado.com/proxy-test): Intenta averiguar el origen de la consulta a la Web.
 * [Keyhole](http://keyhole.co/): Otra herramienta para medir influencia de un hashtag en Twitter.
+* ["Russian meddling machine sets sights on Catalonia"](https://elpais.com/elpais/2017/09/26/inenglish/1506413477_994601.html).
+* ["TRACKING RUSSIAN INFLUENCE OPERATIONS ON TWITTER"](http://dashboard.securingdemocracy.org/).
+* ["Spain Cracks Down on Catalan Independence Movement"](https://disobedientmedia.com/2017/09/spain-cracks-down-on-catalan-independence-movement/).
 
 [volver](./)
