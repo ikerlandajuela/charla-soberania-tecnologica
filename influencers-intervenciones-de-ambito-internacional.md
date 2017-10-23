@@ -18,6 +18,9 @@ La Web [Hashtagify](http://hashtagify.me/) mide la influencia de un hashtag de T
 
 Assange propone varias medidas para sortear la censura como por ejemplo **instalar una VPN para ocultar la IP o usar sistemas de mensajería para terminales móviles como [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=es) o [Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=es) con cifrado**.
 
+Cuando se produce el primer bloqueo de los sitios .cat es el propio Carles Puigdemont ([@KRLS](https://twitter.com/krls)) quien difunde 
+
+![](images/puigdemont_tweet_proxy.jpg)
 
 
 # Enlaces externos
@@ -27,6 +30,7 @@ Assange propone varias medidas para sortear la censura como por ejemplo **instal
 * ["Assange alienta que la rebelión en Cataluña se extienda a nivel global”](https://elpais.com/ccaa/2017/09/26/catalunya/1506456387_836185.html) (elpais). 
 * [“Assange y Snowden, entre los tuiteros más influyentes sobre referéndum catalán”](https://www.elconfidencial.com/espana/cataluna/2017-09-27/assange-y-snowden-entre-los-tuiteros-mas-influyentes-sobre-referendo-catalan_1451001/).
 * ["Assange arenga a las masas en directo en Barcelona y compara España con China"](https://www.elconfidencial.com/espana/cataluna/2017-09-26/referendum-cataluna-julian-assange-defiende-independencia-barcelona_1450288/).
+* ["Puigdemont explica cómo 'hackear' las páginas web del referéndum que han sido bloqueadas"](http://www.elmundo.es/cataluna/2017/09/16/59bd843a46163fe4788b45bc.html).
 
 ## Plataformas y movimientos
 
