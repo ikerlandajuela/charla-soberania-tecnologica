@@ -18,10 +18,11 @@ La Web [Hashtagify](http://hashtagify.me/) mide la influencia de un hashtag de T
 
 Assange propone varias medidas para sortear la censura como por ejemplo **instalar una VPN para ocultar la IP o usar sistemas de mensajería para terminales móviles como [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=es) o [Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=es) con cifrado**.
 
-Cuando se produce el primer bloqueo de los sitios .cat es el propio Carles Puigdemont ([@KRLS](https://twitter.com/krls)) quien difunde 
+Cuando se produce el primer bloqueo de los sitios .cat es el propio Carles Puigdemont ([@KRLS](https://twitter.com/krls)) quien difunde la forma de usar **Proxy**s para para evitar la censura. El propio Assange se hace eco del Tweet recomendando sitios como [HIDEme](https://hide.me/es/proxy), [ProxySite](https://www.proxysite.com/es/) o [Hidester](https://hidester.com/es/proxy/) para navegar de forma anónima.
 
 ![](images/puigdemont_tweet_proxy.jpg)
 
+Con una aplicación Web como [Lagado Proxy Test](http://www.lagado.com/proxy-test) es fácil comprobar como un servicio Proxy enmascara la IP de origen de nuestra conexión a Internet, primero accedemos a la Web [Lagado Proxy Test](http://www.lagado.com/proxy-test) con nuestro navegador y en otra pestaña accedemos a la misma Web usando [HIDEme](https://hide.me/es/proxy), los resultados son diferentes
 
 # Enlaces externos
 
@@ -39,5 +40,8 @@ Cuando se produce el primer bloqueo de los sitios .cat es el propio Carles Puigd
 ## Aplicaciones
 
 * [Hashtagify](http://hashtagify.me/) mide la influencia de un hashtag de Twitter.
+* [HIDEme](https://hide.me/es/proxy): Navegador Proxy anónimo.
+* [ProxySite](https://www.proxysite.com/es/).
+* [Lagado Proxy Test](http://www.lagado.com/proxy-test): Intenta averiguar el origen de la consulta a la Web.
 
 [volver](./)
