@@ -24,7 +24,7 @@ Cuando se produce el primer bloqueo de los sitios .cat es el propio Carles Puigd
 
 Con una aplicación Web como [Lagado Proxy Test](http://www.lagado.com/proxy-test) es fácil comprobar como **un servicio Proxy enmascara la IP de origen de nuestra conexión a Internet**, primero accedemos a la Web [Lagado Proxy Test](http://www.lagado.com/proxy-test) con nuestro navegador y en otra pestaña accedemos a la misma Web usando [HIDEme](https://hide.me/es/proxy), los resultados son diferentes. Cuando accedo con [HIDEme](https://hide.me/es/proxy) la IP de origen es una dirección en Amsterdam ([consulta Whois de la IP](https://www.whatismyip.com/ip-whois-lookup/)).
 
-
+Otro de los usuarios más influyentes junto con Assange es **Edward Snowden** ([@Snowden](https://twitter.com/Snowden)).
 
 # Enlaces externos
 
@@ -34,6 +34,7 @@ Con una aplicación Web como [Lagado Proxy Test](http://www.lagado.com/proxy-tes
 * [“Assange y Snowden, entre los tuiteros más influyentes sobre referéndum catalán”](https://www.elconfidencial.com/espana/cataluna/2017-09-27/assange-y-snowden-entre-los-tuiteros-mas-influyentes-sobre-referendo-catalan_1451001/).
 * ["Assange arenga a las masas en directo en Barcelona y compara España con China"](https://www.elconfidencial.com/espana/cataluna/2017-09-26/referendum-cataluna-julian-assange-defiende-independencia-barcelona_1450288/).
 * ["Puigdemont explica cómo 'hackear' las páginas web del referéndum que han sido bloqueadas"](http://www.elmundo.es/cataluna/2017/09/16/59bd843a46163fe4788b45bc.html).
+* [" “Por qué España no podría cortar internet a toda Cataluña (como asegura Assange)”](https://www.elconfidencial.com/tecnologia/2017-09-20/referendum-cataluna-julian-assange-internet-bloqueo_1447056/).
 
 ## Plataformas y movimientos
 
@@ -45,5 +46,6 @@ Con una aplicación Web como [Lagado Proxy Test](http://www.lagado.com/proxy-tes
 * [HIDEme](https://hide.me/es/proxy): Navegador Proxy anónimo.
 * [ProxySite](https://www.proxysite.com/es/).
 * [Lagado Proxy Test](http://www.lagado.com/proxy-test): Intenta averiguar el origen de la consulta a la Web.
+* [Keyhole](http://keyhole.co/): Otra herramienta para medir influencia de un hashtag en Twitter.
 
 [volver](./)
