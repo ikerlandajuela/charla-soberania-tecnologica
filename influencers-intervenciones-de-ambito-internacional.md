@@ -16,6 +16,8 @@ La Web [Hashtagify](http://hashtagify.me/) mide la influencia de un hashtag de T
 
 ![](images/hashtagify_catalonia.PNG)
 
+Assange propone varias medidas para sortear la censura como por ejemplo **instalar una VPN para ocultar la IP o usar sistemas de mensajería para terminales móviles como [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=es) o [Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=es) con cifrado**.
+
 
 
 # Enlaces externos
