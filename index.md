@@ -30,3 +30,4 @@ layout: default
 * [Bloqueos DNS y censura en la red](bloqueos-dns-y-censura-en-la-red.md).
 * [Buscando evidencias de la censura](evidencias-censura.md).
 * [Efecto Streisand: Hactivistas y movimientos sociales](efecto-streisand-hactivistas-y-movimientos-sociales.md).
+* [“Influencers”, intervenciones de ámbito internacional](influencers-intervenciones-de-ambito-internacional.md)
