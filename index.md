@@ -7,11 +7,16 @@ layout: default
 # Índice
 
 * [Contenido](#contenido)
+	* [Cartel](#cartel)
 	* Resumen programa. 
 	* Datos contacto y lugar.
 	* Participantes.
 	* [Entradas](#entradas).
 	* [Entradas en desarrollo](#entradas-en-desarrollo).
+	* [Recursos](#recursos)
+
+# Cartel 
+
 ![](Soberania_tecnologica_AF.jpg)
 
 # Contenido
@@ -37,4 +42,10 @@ layout: default
 
 Vamos a usar el servicio Etherpad alojado por Riseup
 
-* [La tecnología de las criptodivisas en sistemas de votación](https://pad.riseup.net/p/12tI9KXFqTDL).
+* [La tecnología de las criptodivisas en la administración pública](https://pad.riseup.net/p/12tI9KXFqTDL).
+* [Tecnopolítica para dummies](https://pad.riseup.net/p/LDHjsEEEsuOe).
+
+## Recursos
+
+### Libros
+
