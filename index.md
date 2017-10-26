@@ -46,6 +46,7 @@ Vamos a usar el servicio Etherpad alojado por Riseup
 
 * [La tecnología de las criptodivisas en la administración pública](https://pad.riseup.net/p/12tI9KXFqTDL).
 * [Tecnopolítica para dummies](https://pad.riseup.net/p/LDHjsEEEsuOe).
+* [Internet descentralizada y distribuida](https://pad.riseup.net/p/xWUuDbsRymmz)
 
 ## Recursos
 
