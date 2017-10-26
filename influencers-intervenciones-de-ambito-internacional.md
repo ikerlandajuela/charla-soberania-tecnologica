@@ -39,23 +39,30 @@ Otro de los usuarios más influyentes junto con Assange es **Edward Snowden** ([
 
 ![](images/njalla01.PNG)
 
-Cualquiera se preguntará a que viene esto, **Njalla** también es el nombre de un servicio de registro de dominios creado por **Peter Sunde** ([@brokep](https://twitter.com/brokep)) (si es cofundador de Pirate Bay debe saber de estas cosas). Según su propia publicidad protegen el anonimato y la privacidad de sus clientes.  	 
-
-
-
+Cualquiera se preguntará a que viene esto, **[Njalla](https://njal.la/)** también es el nombre de un servicio de registro de dominios creado por **Peter Sunde** ([@brokep](https://twitter.com/brokep)) (si es cofundador de Pirate Bay debe saber de estas cosas). Según su propia publicidad protegen el anonimato y la privacidad de sus clientes. La empresa esta registrada bajo el nombre de 1337 LLC y su sede parece estar en alguna isla del Caribe (aunque 
 
 
 # Enlaces externos
 
-## Artículos 
+* ["Puigdemont explica cómo 'hackear' las páginas web del referéndum que han sido bloqueadas"](http://www.elmundo.es/cataluna/2017/09/16/59bd843a46163fe4788b45bc.html).
+* [“La conexión moscovita del 'procés' con los hackers rusos”](http://www.elmundo.es/cronica/2017/10/04/59cfd94ae5fdea54288b45d2.html) (elmundo.es - 04/10/2017).
+
+## Assange 
 
 * ["Assange alienta que la rebelión en Cataluña se extienda a nivel global”](https://elpais.com/ccaa/2017/09/26/catalunya/1506456387_836185.html) (elpais). 
 * [“Assange y Snowden, entre los tuiteros más influyentes sobre referéndum catalán”](https://www.elconfidencial.com/espana/cataluna/2017-09-27/assange-y-snowden-entre-los-tuiteros-mas-influyentes-sobre-referendo-catalan_1451001/).
 * ["Assange arenga a las masas en directo en Barcelona y compara España con China"](https://www.elconfidencial.com/espana/cataluna/2017-09-26/referendum-cataluna-julian-assange-defiende-independencia-barcelona_1450288/).
-* ["Puigdemont explica cómo 'hackear' las páginas web del referéndum que han sido bloqueadas"](http://www.elmundo.es/cataluna/2017/09/16/59bd843a46163fe4788b45bc.html).
-* [" “Por qué España no podría cortar internet a toda Cataluña (como asegura Assange)”](https://www.elconfidencial.com/tecnologia/2017-09-20/referendum-cataluna-julian-assange-internet-bloqueo_1447056/).
+* ["Por qué España no podría cortar internet a toda Cataluña (como asegura Assange)”](https://www.elconfidencial.com/tecnologia/2017-09-20/referendum-cataluna-julian-assange-internet-bloqueo_1447056/).
+
+## Snowden
+
 * ["Snowden denuncia "la violación de derechos humanos" en Catalunya"](http://www.elnacional.cat/es/politica/snowden-referendum-catalunya_193899_102.html).
-* [“La conexión moscovita del 'procés' con los hackers rusos”](http://www.elmundo.es/cronica/2017/10/04/59cfd94ae5fdea54288b45d2.html) (elmundo.es - 04/10/2017).
+
+## Njalla y Peter Sunde
+
+* ["NJALLA: Web oficial"](https://njal.la/).
+* ["La isla caribeña que encubre la web del censo de Puigdemont"](https://elpais.com/ccaa/2017/09/21/catalunya/1506015887_758063.html).
+* ["Njalla: el registro anónimo de webs que evitará el cierre de páginas pirata"](https://www.adslzone.net/2017/04/19/njalla-el-registro-anonimo-de-webs-que-evitara-el-cierre-de-paginas-pirata/). 
 
 ## Plataformas y movimientos
 
