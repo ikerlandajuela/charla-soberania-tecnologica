@@ -4,6 +4,8 @@ layout: default
 
 [volver](./)
 
+# Julian Assange
+
 El 26 de Septiembre Martes aparece en escena [Julian Assange](https://es.wikipedia.org/wiki/Julian_Assange) realizando una videoconferencia en una pantalla gigante en plena calle de Barcelona. La conferencia de Assange en Barcelona fue organizada por Universidades por la República (UxR). 
 
 [![IMAGE ALT TEXT](images/videoconferencia_assange_bcn.jpg)](https://www.youtube.com/watch?v=gaad6eZrwMs "Primers 10 minuts videoconferencia Julian Assange (Youtube)")
@@ -24,9 +26,23 @@ Cuando se produce el primer bloqueo de los sitios .cat es el propio Carles Puigd
 
 Con una aplicación Web como [Lagado Proxy Test](http://www.lagado.com/proxy-test) es fácil comprobar como **un servicio Proxy enmascara la IP de origen de nuestra conexión a Internet**, primero accedemos a la Web [Lagado Proxy Test](http://www.lagado.com/proxy-test) con nuestro navegador y en otra pestaña accedemos a la misma Web usando [HIDEme](https://hide.me/es/proxy), los resultados son diferentes. Cuando accedo con [HIDEme](https://hide.me/es/proxy) la IP de origen es una dirección en Amsterdam ([consulta Whois de la IP](https://www.whatismyip.com/ip-whois-lookup/)).
 
+# Edward Snowden
+
 Otro de los usuarios más influyentes junto con Assange es **Edward Snowden** ([@Snowden](https://twitter.com/Snowden)). Solo el Tweet de la imagen de abajo ha sido retweeteado por casi 9000 cuentas.
 
 ![](images/snowden_tweet_1.PNG)
+
+
+# Peter Sunde y su Njalla
+
+**Njalla** es un tipo de edificación de madera que se sujeta sobre un poste, es típica de sitios como Alaska. El poste es resbaladizo para que los depredadores no puedan subir. 
+
+![](images/njalla01.PNG)
+
+Cualquiera se preguntará a que viene esto, **Njalla** también es el nombre de un servicio de registro de dominios creado por **Peter Sunde** ([@brokep](https://twitter.com/brokep)) (si es cofundador de Pirate Bay debe saber de estas cosas). Según su propia publicidad protegen el anonimato y la privacidad de sus clientes.  	 
+
+
+
 
 
 # Enlaces externos
