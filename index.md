@@ -51,5 +51,9 @@ Vamos a usar el servicio Etherpad alojado por Riseup
 
 ## Recursos
 
+### Audio
+
+* ["Sin acritud: Soberanía tecnológica en la Kultur etxea"](https://97irratia.info/es/2017/10/27/soberania-tecnologica-la-kultur-etxea/): Pequeña entrevista donde la gente amiga de la radio "97 Irratia" ([descarga mp3](audio/20171027sinacritud.mp3))
+
 ### Libros
 
