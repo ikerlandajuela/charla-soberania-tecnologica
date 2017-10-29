@@ -65,3 +65,4 @@ Vamos a usar el servicio Etherpad alojado por Riseup.
 
 ### Libros
 
+* [Referencias Bibliográficas](referencias_bibliograficas.md)
