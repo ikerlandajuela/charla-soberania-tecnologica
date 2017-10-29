@@ -33,6 +33,10 @@ La charla se celebrará el Lunes 06 de Noviembre a las 19:00 horas en la Kultur 
 * Correo electrónico alternativo: [kulturetxeabizirik@gmail.com](mailto:kulturetxeabizirik@gmail.com)
 * [Grupo trabajo en Facebook](https://www.facebook.com/groups/132160057442036/).
 
+Mapa ([enlace a mapa](https://www.google.es/maps/search/bilbo+zaharreko+kultur+etxea/@43.2548816,-2.921894,16z)):
+
+![](images/mapa_kultur.PNG)
+
 ## Entradas
 
 ### Sociedad civil frente a la censura
