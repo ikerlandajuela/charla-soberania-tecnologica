@@ -52,7 +52,7 @@ Otro de los citados es **Oriol Ferràndez Grau** ([@oriolfg](https://twitter.com
 
 Se le acusa de crear la Web [Votemperserlliures.cat](https://votemperserlliures.cat/) (la consulta [Whois en fundacio.cat](http://fundacio.cat/es/whois) no muestra ninguna información sobre el registro del nombre).  
 
-La Web facilita el acceso a aplicaciones de mensajería como Telegram (canal  [@onVotar1Octbot](http://t.me/onVotar1Octbot)) o a un ingenioso bot de Twitter que enviando un mensaje privado 
+La Web facilita el acceso a aplicaciones de mensajería como Telegram (canal  [@onVotar1Octbot](http://t.me/onVotar1Octbot)) o a un ingenioso bot de Twitter que enviando un mensaje privado con el DNI y la fecha de nacimiento te indica el centro de votación. 
 
 ![](images/web_votemperserlliures_cat.PNG)
 
