@@ -15,6 +15,8 @@ layout: default
 
 # Bloqueos DNS y censura en la red
 
+![](images/portada_bloqueos_dns.jpg)
+
 La primera web del referéndum [referendum.cat](http://referendum.cat/) (dirección IP de red 2.22.126.197) fue cerrada por orden judicial el 13 de Septiembre, sólo seis días después de su publicación, sólo hay que ver el aspecto que sigue ofreciendo hoy en día (por cierto, necesitan un diseñador Web de forma urgente):
 
 ![](images/referendum_cat_blocked.png)
