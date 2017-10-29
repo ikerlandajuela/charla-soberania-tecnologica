@@ -48,9 +48,11 @@ Algunas informaciones relacionaban a Morales con la página [howtoprotectmyserve
 
 ![](images/tweet_citacion_oriol_ferrandez.PNG)
 
-Otro de los citados es **Oriol Ferràndez Grau** ([@oriolfg](https://twitter.com/oriolfg)). 
+Otro de los citados es **Oriol Ferràndez Grau** ([@oriolfg](https://twitter.com/oriolfg)). Oriol es un diseñador gráfico y Web acusado de desobediencia, prevaricación y malversación de caudales públicos.  
 
 Se le acusa de crear la Web [Votemperserlliures.cat](https://votemperserlliures.cat/) (la consulta [Whois en fundacio.cat](http://fundacio.cat/es/whois) no muestra ninguna información sobre el registro del nombre).  
+
+La Web facilita el acceso a aplicaciones de mensajería como Telegram (canal  [@onVotar1Octbot](http://t.me/onVotar1Octbot)) o a un ingenioso bot de Twitter que enviando un mensaje privado 
 
 ![](images/web_votemperserlliures_cat.PNG)
 
