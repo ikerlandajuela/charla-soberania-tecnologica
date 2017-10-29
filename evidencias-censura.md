@@ -10,6 +10,9 @@ layout: default
 	* [Bloqueo de HTTP](#bloqueo-de-http)
 	* [Apropiación del dominio CAT](#apropiación-del-dominio-cat)
 
+
+![](images/portada_buscando_evidendias_censura.jpg)
+
 # Open Observatory of Network Interference
 
 **[OONI](https://ooni.torproject.org/)** [@OpenObservatory](https://twitter.com/openobservatory) (Open Observatory of Network Interference) se definen como un observatorio global de la red para detectar la censura. Es parte del proyecto **[Tor](https://www.torproject.org/)** ([@torproject](https://twitter.com/torproject)).
