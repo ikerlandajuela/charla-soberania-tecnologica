@@ -7,13 +7,13 @@ layout: default
 # Índice
 
 * [Contenido](#contenido)
-	* [Cartel](#cartel)
+	* [Cartel](#cartel).
 	* [Programa](#programa). 
 	* [Datos contacto y lugar](#datos-de-contacto-y-lugar).
 	* Participantes.
 	* [Entradas](#entradas).
 	* [Entradas en desarrollo](#entradas-en-desarrollo).
-	* [Recursos](#recursos)
+	* [Recursos](#recursos).
 
 # Cartel 
 
