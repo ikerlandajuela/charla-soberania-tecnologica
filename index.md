@@ -9,7 +9,7 @@ layout: default
 * [Contenido](#contenido)
 	* [Cartel](#cartel)
 	* [Programa](#programa). 
-	* Datos contacto y lugar.
+	* [Datos contacto y lugar](#datos-de-contacto-y-lugar).
 	* Participantes.
 	* [Entradas](#entradas).
 	* [Entradas en desarrollo](#entradas-en-desarrollo).
