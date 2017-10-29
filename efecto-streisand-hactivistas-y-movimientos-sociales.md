@@ -18,6 +18,7 @@ El **[efecto Streisand](https://es.wikipedia.org/wiki/Efecto_Streisand)** es un 
 ![](images/lluis_montabes_twitter.PNG)
 
 **Lluis Montabés** ([@lousmontabes](https://twitter.com/lousmontabes)), estudiante de Barcelona de 19 años. **Acusado de desobediencia por crear marianmorajoy.cat para replicar las webs onvotar.garantiespelreferendum.com (offline), ref1oct.cat (bloqueado e intervenido judicialmente) y ref1oct.eu**. Fue uno de los cientos de espejos, o mirrors, habilitados casi al instante por una multitud de personas tanto dentro como fuera de Cataluña. 
+![](images/tfno_citados_detenidos.jpg)
 
 Imagen de la citación por presunto delito de desobediencia:
 
