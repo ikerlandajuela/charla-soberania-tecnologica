@@ -46,10 +46,13 @@ El dump ha sido creado con la herramienta [wget](https://www.gnu.org/software/wg
 
 Algunas informaciones relacionaban a Morales con la página [howtoprotectmyserver.com](http://howtoprotectmyserver.com/), que publica contenidos sobre 'hacking' ético.
 
-Otro de los citados es **Oriol Ferràndez Grau** ([@oriolfg](https://twitter.com/oriolfg)). Se le acusa de crear la Web [Votemperserlliures.cat](https://votemperserlliures.cat/).
- 
-
 ![](images/tweet_citacion_oriol_ferrandez.PNG)
+
+Otro de los citados es **Oriol Ferràndez Grau** ([@oriolfg](https://twitter.com/oriolfg)). 
+
+Se le acusa de crear la Web [Votemperserlliures.cat](https://votemperserlliures.cat/) (la consulta [Whois en fundacio.cat](http://fundacio.cat/es/whois) no muestra ninguna información sobre el registro del nombre).  
+
+![](images/web_votemperserlliures_cat.PNG)
 
 # Buscando mirrors
 
