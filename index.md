@@ -8,7 +8,7 @@ layout: default
 
 * [Contenido](#contenido)
 	* [Cartel](#cartel)
-	* Resumen programa. 
+	* [Programa](#programa). 
 	* Datos contacto y lugar.
 	* Participantes.
 	* [Entradas](#entradas).
@@ -21,7 +21,9 @@ layout: default
 
 # Contenido
 
-## Resumen programa
+## Programa
+
+ [Programa](https://pad.riseup.net/p/Ejp2aGavFf2r)
 
 ## Datos de contacto y lugar
 
@@ -42,12 +44,13 @@ La charla se celebrará el Lunes 06 de Noviembre a las 19:00 horas en la Kultur 
 
 ## Entradas en desarrollo
 
-Vamos a usar el servicio Etherpad alojado por Riseup
+Vamos a usar el servicio Etherpad alojado por Riseup.
 
 * [La tecnología de las criptodivisas en la administración pública](https://pad.riseup.net/p/12tI9KXFqTDL).
 * [Tecnopolítica para dummies](https://pad.riseup.net/p/LDHjsEEEsuOe).
 * [Internet descentralizada y distribuida](https://pad.riseup.net/p/xWUuDbsRymmz)
 * [OpenData: Cuando los gobiernos comparten](https://pad.riseup.net/p/DnG7qL6X3J9L)
+* [Kit de Activismo Digital](https://pad.riseup.net/p/TzuH7jfwfN3j)
 
 ## Recursos
 
