@@ -61,6 +61,8 @@ Otras Webs clonadas:
 
 # Respuesta del Govern 
 
+[subir a contenidos](#contenidos)
+
 Podemos decir que en este punto se internacionaliza la cuestión y pasa de ser un asunto interno de un país a ser una cuestión más allá.
 
 Carta del gobierno de Cataluña (24/09/2017), escrita por [Jordi Puigneró](https://ca.wikipedia.org/wiki/Jordi_Puigner%C3%B3_i_Ferrer) - [@jordiPuignero](https://twitter.com/jordipuignero?lang=es) **presidente del CTTI** (Centro de Telecomunicaciones y Tecnologías de la Información) dirigida al Vicepresidente y Comisario europeo de Mercado Único Digital (Digital Single Market) [Andrus Ansip](https://es.wikipedia.org/wiki/Andrus_Ansip) [[PDF](docs/d954e7d5-8006-40d3-bdfd-7f66d75bcdf7.pdf)].
@@ -79,6 +81,8 @@ Al final de la carta reseña dos medidas desproporcionadas del estado:
 
 # Fundació punt CAT: El organismo que regula los nombres de dominio
 
+[subir a contenidos](#contenidos)
+
 [Fundació puntCAT](http://fundacio.cat/) ([@puntcat](https://twitter.com/puntcat)) es el organismo que de alguna manera regula los nombres de las Webs acabadas con .cat como la citada arriba referendum.cat. Actualmente tiene registrados 112.984 sitios Web con esta terminación ([servidores DNS púbicos](http://servidordenoms.cat/)). 
 
 ![](images/fundacion_puntcat_web.png)
@@ -89,13 +93,19 @@ Al final de la carta reseña dos medidas desproporcionadas del estado:
 
 # Servidores DNS
 
+[subir a contenidos](#contenidos)
+
 De manera algo sencilla, cuando introducimos [referendum.cat](http://referendum.cat/) sólo es un nombre para facilitarnos a los simples mortales recordar un sitio Web, realmente detrás de ese nombre existe una máquina identificada con un número único en Internet (simplificando mucho), como una especie de matricula, en este caso referendum.cat se traduce como “92.122.241.124” Todo ese proceso de conversión de nombre a esa serie de bloques de números separados por puntos lo hacen otras máquinas en Internet llamadas servidores **DNS** (**D**omain **N**ame **S**ystem o Sistema de Nombres de Dominio).
 
 Es muy habitual que nuestro **ISP** (**I**nternet **S**ervice **P**rovider o Proveedor de Servicios de Internet) nos proporcione esos números de los servidores **DNS** que se suelen configurar en nuestra computadora de casa.
 
 # Precedentes en el mundo
 
+[subir a contenidos](#contenidos)
+
 ## Gobiernos
+
+[subir a contenidos](#contenidos)
 
 ![](images/turkey_dns_google.png)
 
@@ -117,6 +127,8 @@ El gobierno Chino es conocido por bloquear sitios de noticias o páginas que con
 
 ## Pirate Bay
 
+[subir a contenidos](#contenidos)
+
 En otros ámbitos también se ha aplicado en Webs de descarga de torrents como Pirate Bay.
 
 ![](images/pirate-bay-december-2013.jpg)
@@ -129,6 +141,8 @@ Para sortear este bloqueo la Web estuvo saltando de un dominio a otro (.gy = Guy
 
 # Anexos
 
+[subir a contenidos](#contenidos)
+
 Manual mesas electorales en PDF: [1505386392-mme_esp.pdf](docs/1505386392-mme_esp.pdf)
 
 
@@ -136,6 +150,8 @@ Manual mesas electorales en PDF: [1505386392-mme_esp.pdf](docs/1505386392-mme_es
 
 
 ## Enlaces externos
+
+[subir a contenidos](#contenidos)
 
 ### Censura CAT
 
