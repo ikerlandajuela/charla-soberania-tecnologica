@@ -18,10 +18,15 @@
   <link rel="stylesheet" media="screen" href="extensions/scale/deck.scale.css">
 
   <!-- Style theme. More available in /themes/style/ or create your own. -->
-  <link rel="stylesheet" media="screen" href="themes/style/web-2.0.css">
-
+  <link rel="stylesheet" media="screen" href="themes/style/web-2.0.css"> 
+  <!-- <link rel="stylesheet" media="screen" href="themes/style/neon.css"> -->
+  <!-- <link rel="stylesheet" media="screen" href="themes/style/swiss.css"> -->
+  
   <!-- Transition theme. More available in /themes/transition/ or create your own. -->
-  <link rel="stylesheet" media="screen" href="themes/transition/horizontal-slide.css">
+  <!-- <link rel="stylesheet" media="screen" href="themes/transition/horizontal-slide.css">
+  <link rel="stylesheet" media="screen" href="themes/transition/fade.css"> -->
+  <!-- Transición vertical de transparencias -->
+  <link rel="stylesheet" media="screen" href="themes/transition/vertical-slide.css">
 
   <!-- Basic black and white print styles -->
   <link rel="stylesheet" media="print" href="core/print.css">
@@ -30,20 +35,27 @@
   <script src="modernizr.custom.js"></script>
 </head>
 <body>
+
   <div class="deck-container">
 
     <!-- Begin slides. Just make elements with a class of slide. -->
 
     <section class="slide">
-      <h1>Slide</h1>
+      <h1>Sociedad civil frente a la censura</h1>            	
     </section>
 
-    <section class="slide">
-      <h1>Content</h1>
+    <section class="slide">      
+      	<blockquote cite="http://example.org">
+  			<p>“Las sociedades avanzan, en muchas ocasiones, a base de desobediencias”</p>
+		</blockquote>
     </section>
-
+    
     <section class="slide">
-      <h1>Here</h1>
+      <h2>Bloqueos Web</h2>
+      <p>
+      	13Sept: La primera web del referéndum referendum.cat fue cerrada por orden judicial (Seis días después de su publicación).
+      </p>
+      <img src="../../../images/referendum_cat_blocked.png" alt="Kitties">
     </section>
 
     <!-- End slides. -->
@@ -51,6 +63,7 @@
     <!-- Begin extension snippets. Add or remove as needed. -->
 
     <!-- deck.navigation snippet -->
+    <!-- muestra boton para transión prev o next -->
     <div aria-role="navigation">
       <a href="#" class="deck-prev-link" title="Previous">&#8592;</a>
       <a href="#" class="deck-next-link" title="Next">&#8594;</a>
@@ -58,8 +71,7 @@
 
     <!-- deck.status snippet -->
     <p class="deck-status" aria-role="status">
-      <span class="deck-status-current"></span>
-      /
+      <span class="deck-status-current"></span>      
       <span class="deck-status-total"></span>
     </p>
 
@@ -73,6 +85,10 @@
 
     <!-- End extension snippets. -->
   </div>
+
+<footer>
+  <p><span class="version">0.0.1</span> Proyecto <a href="http://https://kulturetxea.github.io/charla-soberania-tecnologica/">Kultur Etxea</a></p>
+</footer>
 
 <!-- Required JS files. -->
 <script src="jquery.min.js"></script>
