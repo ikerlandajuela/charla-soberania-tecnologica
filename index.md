@@ -23,7 +23,8 @@ layout: default
 
 ## Programa
 
- [Programa](https://pad.riseup.net/p/Ejp2aGavFf2r)
+* [Programa](https://pad.riseup.net/p/Ejp2aGavFf2r)
+	* [Testimonios](https://pad.riseup.net/p/RiaR0lkHcQ7D)
 
 ## Datos de contacto y lugar
 
