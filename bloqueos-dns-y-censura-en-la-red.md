@@ -8,7 +8,7 @@ layout: default
 
 * [Bloqueos DNS y censura en la red](#bloqueos-dns-y-censura-en-la-red)
 * [Respuesta del Govern](#respuesta-del-govern )
-* [Fundació puntCAT: El organismo que regula los nombres de dominio](#fundació-puntcat-el-organismo-que-regula-los-nombres-de-dominio)
+* [Fundació punt CAT: El organismo que regula los nombres de dominio](#fundacio-puntcat-el-organismo-que-regula-los-nombres-de-dominio)
 * [Servidores DNS](#servidores-dns)
 * [Precedentes en el mundo](#precedentes-en-el-mundo)
 	* [Turquía](#turquía)
