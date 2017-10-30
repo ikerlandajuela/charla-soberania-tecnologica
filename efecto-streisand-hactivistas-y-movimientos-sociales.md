@@ -58,7 +58,7 @@ La Web facilita el acceso a aplicaciones de mensajería como Telegram (canal  [@
 ![](images/web_votemperserlliures_cat.PNG)
 
 https://github.com/oriolfg
-https://github.com/oriolfg/empaperem.github.io
+https://github.com/oriolfg/empaperem.github.io	
 
 # Buscando mirrors
 
