@@ -61,6 +61,8 @@ Otras Webs clonadas:
 
 # Respuesta del Govern 
 
+Podemos decir que en este punto se internacionaliza la cuestión y pasa de ser un asunto interno de un país a ser una cuestión más allá.
+
 Carta del gobierno de Cataluña (24/09/2017), escrita por [Jordi Puigneró](https://ca.wikipedia.org/wiki/Jordi_Puigner%C3%B3_i_Ferrer) - [@jordiPuignero](https://twitter.com/jordipuignero?lang=es) **presidente del CTTI** (Centro de Telecomunicaciones y Tecnologías de la Información) dirigida al Vicepresidente y Comisario europeo de Mercado Único Digital (Digital Single Market) [Andrus Ansip](https://es.wikipedia.org/wiki/Andrus_Ansip) [[PDF](docs/d954e7d5-8006-40d3-bdfd-7f66d75bcdf7.pdf)].
 
 ![](images/carta_generalitat_a_andrus_ansip.PNG)
