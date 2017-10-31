@@ -14,6 +14,13 @@ layout: default
 
 El **[efecto Streisand](https://es.wikipedia.org/wiki/Efecto_Streisand)** es un fenómeno de Internet en el que un **intento de censura o encubrimiento de cierta información fracasa o es contraproducente**, ya que esta acaba siendo ampliamente divulgada o reconocida. De modo que recibe mayor visibilidad de la que habría tenido si no se la hubiese pretendido acallar (El término debe su nombre a un incidente ocurrido en 2003 con la actriz estadounidense Barbra Streisand, que denunció al fotógrafo Kenneth Adelman y su página de fotografías).
 
+ ## Sedición y rebelión
+
+En la mayoría de los casos a los citados a declarar se les acusa de delitos de sedición, rebelión, desobediencia...
+
+
+
+
 
 ![](images/lluis_montabes_twitter.PNG)
 

@@ -40,7 +40,7 @@ Mapa ([enlace a mapa](https://www.google.es/maps/search/bilbo+zaharreko+kultur+e
 
 ![](images/mapa_kultur.PNG)
 
-## Entradas
+## Entradas-
 
 ### Sociedad civil frente a la censura
 
