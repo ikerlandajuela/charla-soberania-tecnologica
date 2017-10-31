@@ -16,6 +16,9 @@ El **[efecto Streisand](https://es.wikipedia.org/wiki/Efecto_Streisand)** es un 
 
  ## Sedición y rebelión
 
+https://www.ecestaticos.com/imagestatic/clipping/7ee/0c3/7ee0c3d2ceead26f99649f40fd163a75/imagenes-de-la-rebelion-arte-y-poesia-en-la-historia-de-los-levantamientos.jpg?mtime=1482148186
+Le Charge', Félix Vallotton (1893) (Centre Pompidou. Donación de Adèle y Georges Besson en 1963. En depósito en el Musée des Beaux-Arts et d’Archéologie de Besançon)
+
 En la mayoría de los casos a los citados a declarar se les acusa de delitos de sedición, rebelión, desobediencia...
 
 
