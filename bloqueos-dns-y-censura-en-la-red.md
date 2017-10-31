@@ -79,6 +79,13 @@ Al final de la carta reseña dos medidas desproporcionadas del estado:
 * La orden enviada a operadores de telecomunicaciones (**ISPs**) pidiendo bloquear los servidores proxy 
 
 
+[BOE. Reglamento (UE) 2015/2120 PDF](../../docs/BOE_ UE_2015_2120.pdf): Establece medidas en relación al acceso a una Internet abierta. Tristemente parece que preocupa más el tema de la itinerancia de datos (Roaming) y se refiere a la neutralidad tecnológica para no imponer ninguna tecnología. 
+
+**"...Tal como se dispone en la Directiva 2002/21/CE ..., únicamente pueden adoptarse medidas susceptibles de restringir los derechos y libertades fundamentales
+si son apropiadas, proporcionadas y necesarias en una sociedad democrática y su aplicación está sujeta a
+las salvaguardias de procedimiento adecuadas de conformidad con el Convenio Europeo para la Protección de los
+Derechos Humanos y de las Libertades Fundamentales,..."**
+
 # Fundació punt CAT: El organismo que regula los nombres de dominio
 
 [subir a contenidos](#contenidos)
