@@ -5,6 +5,8 @@ layout: default
 [volver](./)
 
 * [Efecto Streisand: Hactivistas y movimientos sociales]()
+	* [Sedición y rebelión](#sedición-y-rebelión)
+	* [@lousmontabes](#@lousmontabes)
 * [Buscando mirrors](#buscando-mirrors)
 * [Enlaces externos](#enlaces-externos).
 
@@ -20,6 +22,8 @@ El **[efecto Streisand](https://es.wikipedia.org/wiki/Efecto_Streisand)** es un 
 Le Charge', Félix Vallotton (1893).
 
 En la mayoría de los casos a los citados a declarar se les acusa de delitos de sedición, rebelión, desobediencia...
+
+## @lousmontabes
 
 ![](images/lluis_montabes_twitter.PNG)
 
