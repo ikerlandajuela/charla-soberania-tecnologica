@@ -26,7 +26,7 @@ En la mayoría de los casos a los citados a declarar se les acusa de delitos de 
 
 En la **desobediencia** se alega que se hace caso omiso a las órdenes emanadas por la autoridad en el ejercicio de sus funciones, sin empleo de fuerza física. Si es leve puede acarrear penas de multa de 1 a 3 meses, puede ser de hasta 1 año en caso de ser grave.
 
-* Prevaricación: 
+Prevaricación “*Delito consistente en que una autoridad, un juez o un funcionario dicte a sabiendas una resolución es injusta*".
 
 ![](images/rebelion_felix_vallotton_1983.jpg)
 Le Charge', Félix Vallotton (1893).
