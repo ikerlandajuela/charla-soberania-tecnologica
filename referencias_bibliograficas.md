@@ -6,7 +6,16 @@ layout: default
 
 **Contenidos**:
 
+* [Zirikatzen. Sare sozialen inguruko txostena](#zirikatzen-sare-sozialen inguruko-txostena)
 * [Manual del ciberactivista](#manual-del-ciberactivista)
+
+# Zirikatzen. Sare sozialen inguruko txostena
+
+[PDF](doc/ebooks/zirikatzen_sare_sozialak_txostena.pdf) 
+
+![](docs/ebooks/zirikatzen_sare_sozialak_txostena.PNG)
+
+# Manual del ciberactivista
 
 ![](docs/ebooks/2015-05-14_manual-del-ciberactivista_javier-de-la-cueva_portada.png)
 
