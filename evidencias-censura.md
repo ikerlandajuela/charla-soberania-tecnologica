@@ -68,6 +68,21 @@ The virtual harassment has been paralleled with physical harassment. Read what E
 
 Also interesting reading about technical measures taken beforehand to prevent DDoS and censorship: https://medium.com/@josepot/is-sensitive-voter-data-being-exposed-by-the-catalan-government-af9d8a909482
 
+Collection of data about URL filtering in various countries https://github.com/citizenlab/web-censorship
+
+Gets a simple dump of the Russian Federal Black List of blocked sites from the excellent antizapret.info in a few formats
+https://github.com/jakubd/russian-blacklist
+
+https://github.com/jakubd/censorscope
+https://github.com/projectbismark/censorscope/wiki/Design-spec
+
+ #Censorscope and #censormetrics for a new #censorship science and historical prospective. Google search engine as a global #censor Dr. (PhD) Miguel Gallardo at www.cita.es Tel. (+34) 902998352 E-mail: miguel@cita.es  
+https://docs.google.com/document/d/15Zsn9Zk4UkQ4Hjuk8ibOhqqC-bVEWDVFutyIWFiJyhU/edit
+
+https://sites.google.com/site/censorscope/time-tracker
+https://github.com/projectbismark/censorscope
+
+
 # Técnicas para censurar sitios Web 
 
 ## DNS tampering (DNS cache poisoning)
