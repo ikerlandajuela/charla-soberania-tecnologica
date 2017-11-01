@@ -12,18 +12,20 @@ layout: default
 * [Buscando mirrors](#buscando-mirrors)
 * [Enlaces externos](#enlaces-externos).
 
+Millones de personas tienen acceso a más y más información de forma casi gratuita. Más de una tercera parte de la especie humana genera su propia información mediante teléfonos móviles y ordenadores y la comparten como audio o vídeo en un mundo conectado en red. Prosumers de información.
+
 # Efecto Streisand: Hactivistas y movimientos sociales
 
 ![](images/wwwmarianorajoycat.jpg)
 
 El **[efecto Streisand](https://es.wikipedia.org/wiki/Efecto_Streisand)** es un fenómeno de Internet en el que un **intento de censura o encubrimiento de cierta información fracasa o es contraproducente**, ya que esta acaba siendo ampliamente divulgada o reconocida. De modo que recibe mayor visibilidad de la que habría tenido si no se la hubiese pretendido acallar (El término debe su nombre a un incidente ocurrido en 2003 con la actriz estadounidense Barbra Streisand, que denunció al fotógrafo Kenneth Adelman y su página de fotografías).
 
- ## Sedición y rebelión
+## Delito de desobediencia
 
 ![](images/rebelion_felix_vallotton_1983.jpg)
 Le Charge', Félix Vallotton (1893).
 
-En la mayoría de los casos a los citados a declarar se les acusa de delitos de sedición, rebelión, desobediencia...
+En la mayoría de los casos a los citados a declarar se les acusa de delitos de desobediencia 
 
 ## @lousmontabes
 
