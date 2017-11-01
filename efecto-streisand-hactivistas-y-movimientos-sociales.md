@@ -22,14 +22,16 @@ El **[efecto Streisand](https://es.wikipedia.org/wiki/Efecto_Streisand)** es un 
 
 ## Delito de desobediencia
 
+En la mayoría de los casos a los citados a declarar se les acusa de delitos de desobediencia. 
+
+En la **desobediencia** se alega que se hace caso omiso a las órdenes emanadas por la autoridad en el ejercicio de sus funciones, sin empleo de fuerza física. Si es leve puede acarrear penas de multa de 1 a 3 meses, puede ser de hasta 1 año en caso de ser grave.
+
+* Prevaricación: 
+
 ![](images/rebelion_felix_vallotton_1983.jpg)
 Le Charge', Félix Vallotton (1893).
 
-En la mayoría de los casos a los citados a declarar se les acusa de delitos de desobediencia. 
-
 Las acusaciones a cargos políticos públicos son más graves: Sedición y rebelión en la mayoría de los casos.
-
-
 
 ## @lousmontabes
 
