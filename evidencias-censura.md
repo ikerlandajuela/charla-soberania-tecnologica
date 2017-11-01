@@ -10,7 +10,6 @@ layout: default
 	* [Bloqueo de HTTP](#bloqueo-de-http)
 	* [Apropiación del dominio CAT](#apropiación-del-dominio-cat)
 
-
 ![](images/portada_buscando_evidendias_censura.jpg)
 
 # Open Observatory of Network Interference
@@ -51,7 +50,25 @@ El Tweet publicado por OONI el 26 de Septiembre muestra las evidencias del bloqu
 
 Todos los dominios .cat han sido retirados como resultado de la orden judicial recibida por Fundacio .cat el 15 de septiembre del Tribunal Superior de Justicia de Cataluña. El director de investigación e información de la organización que dirige el dominio catalán de nivel superior .cat, Pep Oliver, fue detenido el 20 de septiembre y mantenido bajo custodia durante 60 horas.
 
-# Técnicas para censurar sitios web 
+GitHub [Add urls blocked in Spain related to Catalan referendum](https://github.com/citizenlab/test-lists/issues/221). 
+
+[citizenlab/test-lists: Listado de Webs](https://github.com/citizenlab/test-lists/pull/228/files#diff-e1a59faca632b178f429c9a26c1ce410R32)
+
+Usando el comando host en Linux o su equivalente nslookup en Win podemos comprobar si un nombre de dominio tiene un alias (en este caso el alias seria paginaintervenida.edgesuite.net).
+
+![](images/host_linux_cmd_referendum_cat.PNG)
+
+También podemos usar aplicaciones Web que ejecutan la misma consulta http://ping.eu/nslookup/.
+
+![](images/dnslookup_online.PNG)
+
+https://github.com/citizenlab/test-lists/issues/221
+
+The virtual harassment has been paralleled with physical harassment. Read what EFF wrote about it at https://www.eff.org/deeplinks/2017/09/cat-domain-casualty-catalonian-independence-crackdown
+
+Also interesting reading about technical measures taken beforehand to prevent DDoS and censorship: https://medium.com/@josepot/is-sensitive-voter-data-being-exposed-by-the-catalan-government-af9d8a909482
+
+# Técnicas para censurar sitios Web 
 
 ## DNS tampering (DNS cache poisoning)
 
@@ -79,6 +96,10 @@ Una vez que Fundacio .CAT acató la orden judicial, los dominios han sido rediri
 
 # Enlaces externos
 
+* [The Catalan government is using cypherpunk techniques with voter data](https://hackernoon.com/is-sensitive-voter-data-being-exposed-by-the-catalan-government-af9d8a909482).
+* **Open Democracy** [Repression and digital resistance in the #CATALANREFERENDUM](https://www.opendemocracy.net/digitaliberties/xnet/repression-and-digital-resistance-in-catalanreferendum).
+* [Advox](https://advox.globalvoices.org/about/) is a project of Global Voices. We are a global network of bloggers and online activists dedicated to protecting freedom of expression and free access to information online.
+* [Netizen Report: Free Speech Is Under Fire in Catalonia’s Push for Independence](https://advox.globalvoices.org/2017/10/13/netizen-report-free-speech-is-under-fire-in-catalonias-push-for-independence/)
 * **OONI** ["Evidence of Internet Censorship during Catalonia's Independence Referendum"](https://ooni.torproject.org/post/internet-censorship-catalonia-independence-referendum/) (03/10/2017).
 * **OpenNet Initiative** ["About Filtering"](https://opennet.net/about-filtering).
 * Ebook ["Access Denied: The Practice and Policy of Global Internet Filtering"](https://books.google.es/books?id=l6ry0NeJ1N8C&pg=PA14&lpg=PA14&dq=DNS+tampering+que+es&source=bl&ots=i93_WnScZe&sig=bvzygiEP2Bxf8j74qNyOEp9ObZc&hl=es&sa=X&ved=0ahUKEwifid6K_IPXAhXJtRQKHQcyAQYQ6AEIeDAJ#v=onepage&q=DNS%20tampering%20que%20es&f=false) 
@@ -95,7 +116,8 @@ Una vez que Fundacio .CAT acató la orden judicial, los dominios han sido rediri
 
 **China:**
 
-* ["Websites blocked in mainland China"](https://en.wikipedia.org/wiki/Websites_blocked_in_mainland_China) (wikipedia).
+* chat-censorship ["Websites blocked in mainland China"](https://en.wikipedia.org/wiki/Websites_blocked_in_mainland_China) (wikipedia).
+* [Collection of keyword lists used to censor content on chat apps and live streaming apps used in China](https://github.com/citizenlab/chat-censorship).
 
 **Vietnam:**
 
