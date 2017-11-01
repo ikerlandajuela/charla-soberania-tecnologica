@@ -7,6 +7,8 @@ layout: default
 * [Efecto Streisand: Hactivistas y movimientos sociales]()
 	* [Sedición y rebelión](#sedición-y-rebelión)
 	* [@lousmontabes](#@lousmontabes)
+	* [@oriolfg](#@oriolfg)
+	* [@oriolfgs](#@oriolfgs)
 * [Buscando mirrors](#buscando-mirrors)
 * [Enlaces externos](#enlaces-externos).
 
@@ -56,6 +58,8 @@ Morales explica que descargó el código fuente de las páginas web cerradas y l
 El dump ha sido creado con la herramienta [wget](https://www.gnu.org/software/wget/) y los links convertidos automáticamente.
 
 Algunas informaciones relacionaban a Morales con la página [howtoprotectmyserver.com](http://howtoprotectmyserver.com/), que publica contenidos sobre 'hacking' ético.
+
+## @oriolfgs
 
 ![](images/tweet_citacion_oriol_ferrandez.PNG)
 
