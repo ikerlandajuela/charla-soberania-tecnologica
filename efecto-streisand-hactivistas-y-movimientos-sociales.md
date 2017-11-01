@@ -5,7 +5,7 @@ layout: default
 [volver](./)
 
 * [Efecto Streisand: Hactivistas y movimientos sociales]()
-	* [Sedición y rebelión](#sedición-y-rebelión)
+	* [Delito de desobediencia](#delito-de-desobediencia)
 	* [@lousmontabes](#@lousmontabes)
 	* [@oriolfg](#@oriolfg)
 	* [@oriolfgs](#@oriolfgs)
@@ -25,7 +25,11 @@ El **[efecto Streisand](https://es.wikipedia.org/wiki/Efecto_Streisand)** es un 
 ![](images/rebelion_felix_vallotton_1983.jpg)
 Le Charge', Félix Vallotton (1893).
 
-En la mayoría de los casos a los citados a declarar se les acusa de delitos de desobediencia 
+En la mayoría de los casos a los citados a declarar se les acusa de delitos de desobediencia. 
+
+Las acusaciones a cargos políticos públicos son más graves: Sedición y rebelión en la mayoría de los casos.
+
+
 
 ## @lousmontabes
 
