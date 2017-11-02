@@ -37,11 +37,13 @@ Le Charge', Félix Vallotton (1893).
 
 Las acusaciones a cargos políticos públicos son más graves: Sedición y rebelión en la mayoría de los casos.
 
-## GitHub
+## Nota breve sobre GitHub
 
-[GitHub](https://github.com/) es plataforma de desarrollo colaborativo ideado inicialmente para alojar código fuente en la Web y controlar los cambios en equipos de trabajo. 
+[GitHub](https://github.com/) es plataforma de desarrollo colaborativo ideada inicialmente para alojar código fuente en la Web y controlar los cambios del código en equipos de trabajo. 
 
-La mayoría de proyectos son públicos y se pueden descargar, algunas características de GitHub  
+![](images/github_social_coding_logo.png)
+
+La mayoría de proyectos son públicos y se pueden descargar, algunas características de GitHub ha hecho que se gane innumerables adeptos, además de alojar código fuente podemos construir una página Web estática como esta por ejemplo, **permite replicar proyectos de otras cuentas con un par de clicks de ratón** y tiene algunas características de red social.   
 
 ## @lousmontabes
 
