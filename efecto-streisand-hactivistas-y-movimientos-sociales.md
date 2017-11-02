@@ -16,13 +16,17 @@ Millones de personas tienen acceso a más y más información de forma casi grat
 
 # Efecto Streisand: Hactivistas y movimientos sociales
 
-![](images/wwwmarianorajoycat.jpg)
+![](images/wwwmarianorajoycat.jpg)	
 
 El **[efecto Streisand](https://es.wikipedia.org/wiki/Efecto_Streisand)** es un fenómeno de Internet en el que un **intento de censura o encubrimiento de cierta información fracasa o es contraproducente**, ya que esta acaba siendo ampliamente divulgada o reconocida. De modo que recibe mayor visibilidad de la que habría tenido si no se la hubiese pretendido acallar (El término debe su nombre a un incidente ocurrido en 2003 con la actriz estadounidense Barbra Streisand, que denunció al fotógrafo Kenneth Adelman y su página de fotografías).
 
 ## Delito de desobediencia
 
-En la mayoría de los casos a los citados a declarar se les acusa de delitos de desobediencia. 
+La censura y la prohibición alienta a ciudadanos anónimos a replicar las Webs originales intervenidas por mandato judicial. 
+ 
+En la mayoría de los casos a los citados a declarar se les acusa de delitos de desobediencia por hacer "espejos" de las Webs cerradas.
+
+Una de las misivas del Juzgado al usuario con el nick GrenderG apunta directamente a la plataforma GitHub como medio de replicación.  
 
 En la **desobediencia** se alega que se hace caso omiso a las órdenes emanadas por la autoridad en el ejercicio de sus funciones, sin empleo de fuerza física. Si es leve puede acarrear penas de multa de 1 a 3 meses, puede ser de hasta 1 año en caso de ser grave.
 

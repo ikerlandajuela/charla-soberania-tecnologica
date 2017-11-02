@@ -82,7 +82,7 @@ https://docs.google.com/document/d/15Zsn9Zk4UkQ4Hjuk8ibOhqqC-bVEWDVFutyIWFiJyhU/
 https://sites.google.com/site/censorscope/time-tracker
 https://github.com/projectbismark/censorscope
 
-
+ 
 # Técnicas para censurar sitios Web 
 
 ## DNS tampering (DNS cache poisoning)
@@ -108,6 +108,9 @@ Esta técnica inspecciona, intercepta y altera el tráfico en la red por lo que 
 ## Apropiación del dominio CAT
 
 Una vez que Fundacio .CAT acató la orden judicial, los dominios han sido redirigidos por medio de DNS al dominio paginaintervenida.edgesuite.net alojado en Akamai. Muchos dominios .cat, sin embargo, también fueron bloqueados por medio de la manipulación de DNS y el bloqueo de HTTP.
+
+
+Muchos de los dominios clausurados seguían accesibles desde el extranjero, existen varios trucos para sortear el filtro de las operadoras desde España, como utilizar un servidor DNS extranjero, conectarse a través de una red privada virtual (VPN) o un servidor Proxy. Ambas tecnologías hacen posible emular que un internauta se encuentra en un país que no es el suyo.
 
 # Enlaces externos
 
