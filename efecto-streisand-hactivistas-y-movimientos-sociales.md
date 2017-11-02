@@ -22,11 +22,11 @@ El **[efecto Streisand](https://es.wikipedia.org/wiki/Efecto_Streisand)** es un 
 
 ## Delito de desobediencia
 
-La censura y la prohibición alienta a ciudadanos anónimos a replicar las Webs originales intervenidas por mandato judicial. 
+La censura y la prohibición alienta a ciudadanos anónimos a replicar las Webs originales intervenidas por mandato judicial. En seguida comienzan a  llegar citaciones a declarar a las personas que presuntamente están detrás de las cuentas registradas en las plataformas usadas en Internet.
  
-En la mayoría de los casos a los citados a declarar se les acusa de delitos de desobediencia por hacer "espejos" de las Webs cerradas.
+En la mayoría de los casos a los citados a declarar se les acusa de delitos de **desobediencia** por hacer "espejos" de las Webs cerradas.
 
-Una de las misivas del Juzgado al usuario con el nick GrenderG apunta directamente a la plataforma GitHub como medio de replicación.  
+Una de las ordenes de registro del domicilio de uno de ellos con el nick GrenderG apunta directamente a la plataforma GitHub como medio de replicación de contenidos, especialmente la Web referendum.cat donde se podía consultar el centro de votación introduciendo el DNI, fecha de nacimiento y el CP.  
 
 En la **desobediencia** se alega que se hace caso omiso a las órdenes emanadas por la autoridad en el ejercicio de sus funciones, sin empleo de fuerza física. Si es leve puede acarrear penas de multa de 1 a 3 meses, puede ser de hasta 1 año en caso de ser grave.
 
@@ -36,6 +36,12 @@ Prevaricación “*Delito consistente en que una autoridad, un juez o un funcion
 Le Charge', Félix Vallotton (1893).
 
 Las acusaciones a cargos políticos públicos son más graves: Sedición y rebelión en la mayoría de los casos.
+
+## GitHub
+
+[GitHub](https://github.com/) es plataforma de desarrollo colaborativo ideado inicialmente para alojar código fuente en la Web y controlar los cambios en equipos de trabajo. 
+
+La mayoría de proyectos son públicos y se pueden descargar, algunas características de GitHub  
 
 ## @lousmontabes
 
