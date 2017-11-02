@@ -23,6 +23,7 @@ layout: default
 
 ## Programa
 
+* [Invitación para difusión](https://pad.riseup.net/p/7u2sGwVrIMBj)
 * [Programa](https://pad.riseup.net/p/Ejp2aGavFf2r)
 	* [Testimonios](https://pad.riseup.net/p/RiaR0lkHcQ7D)
 
