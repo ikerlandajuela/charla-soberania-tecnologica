@@ -21,7 +21,7 @@ Listado de participantes:
 
 ![](images/ponentes/Asier_Amezaga_Albizu_Circle.gif)
 
-**Asier Amezaga** ([@asieramezaga ](https://twitter.com/asieramezaga)) trabaja como consultor de tecnologías sociales, trabaja en [Komunikatik]() una empresa ubicada en Getxo donde han trabajado en proyectos como:....
+**Asier Amezaga** ([@asieramezaga ](https://twitter.com/asieramezaga)) trabaja como consultor de tecnologías sociales en [Komunikatik](http://www.komunikatik.com/) una empresa ubicada en Getxo, han trabajado en proyectos y en colaboración estrecha con empresas como: Koopera, 
 
 
 # Julen Orbegozo
@@ -44,7 +44,7 @@ Somos un laboratorio de investigación colectiva. Un proyecto que se dedicará l
 
 ![](images/ponentes/Emanuele_Cozzo_circle.gif)
 
-**Emanuele Cozzo** es licenciado en física por la universidad "Sapienza" de Roma. Ahí también empieza su activismo político en el movimiento estudiantil y se forma su interés por la ciencia crítica, bebiendo de la tradición del departamento de física, conocido como la internacional de los científicos. Cursó su doctorado en teoría de redes y sistemas complejos en la Universidad de Zaragoza mezclando su formación académica con el activismo tecnopolítico en colectivos como datanalysis15m. Actualmente desarrolla su actividad investigadora en la Universitat de Barcelona.
+**Emanuele Cozzo** ([@ecozzo](https://twitter.com/ecozzo)) es licenciado en física por la universidad "Sapienza" de Roma. Ahí también empieza su activismo político en el movimiento estudiantil y se forma su interés por la ciencia crítica, bebiendo de la tradición del departamento de física, conocido como la internacional de los científicos. Cursó su doctorado en teoría de redes y sistemas complejos en la Universidad de Zaragoza mezclando su formación académica con el activismo tecnopolítico en colectivos como datanalysis15m. Actualmente desarrolla su actividad investigadora en la Universitat de Barcelona.
 
 # Abdo Taleb Omar
 
