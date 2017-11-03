@@ -37,11 +37,7 @@ Listado de participantes:
 
 Periodista nacido en Durango 
 
-Alderdiek (edo erakunde publikoek) zertarako sare sozialak eta internet?
-
-* Mezua barreiatzeko
-* Soziologia ezagutzeko
-* Parte-hartzea sustatzeko / demokrazia zabaltzeko.
+Nos hablará sobre algunos temas como la utilidad que pueden tener las redes sociales y Internet para la administración pública o para partidos políticos bien a nivel interno o como herramienta de educación política. 
 
 # heuristica.barcelona
 
