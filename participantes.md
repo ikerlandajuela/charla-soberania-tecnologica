@@ -21,8 +21,9 @@ Listado de participantes:
 
 ![](images/ponentes/Asier_Amezaga_Albizu_Circle.gif)
 
-**Asier Amezaga** ([@asieramezaga ](https://twitter.com/asieramezaga)) trabaja como consultor de tecnologías sociales en [Komunikatik](http://www.komunikatik.com/) una empresa ubicada en Getxo, han trabajado en proyectos y en colaboración estrecha con empresas como: Koopera, 
+**Asier Amezaga** ([@asieramezaga ](https://twitter.com/asieramezaga)) trabaja como consultor de tecnologías sociales en [Komunikatik](http://www.komunikatik.com/) una empresa ubicada en Getxo, han trabajado en proyectos y en colaboración estrecha con empresas como: Koopera, Bolunta, ADO2, Getxo Kirokak y otros muchos. 
 
+**Asier** también es integrante de la plataforma [Decidim Barcelona](https://www.decidim.barcelona/?locale=es). Decidim tiene como objetivo construir entre todas una ciudad más abierta, transparente y colaborativa
 
 # Julen Orbegozo
 
