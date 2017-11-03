@@ -67,7 +67,7 @@ Desarrollan proyectos como #Enredados1O, valiéndose de fuentes de datos como Tw
 
 ![](images/ponentes/Abdo_Taleb_Omar_circle.gif)
 
-**Doctorando en relaciones internacionales**. Es periodista del Sáhara Press Service (SPS); columnista en [Radio Pedal](http://radiopedal.uy/); colabora con la BBC Arabic. Es también ex columnista del diario impreso [La República](http://www.republica.com.uy/edicion-impresa/) (Uruguay)
+Abdo Taleb Omar ([@AbdoTalebOmar1](https://twitter.com/AbdoTalebOmar1)) **Doctorando en relaciones internacionales**. Es periodista del Sáhara Press Service (SPS); columnista en [Radio Pedal](http://radiopedal.uy/); colabora con la BBC Arabic. Es también ex columnista del diario impreso [La República](http://www.republica.com.uy/edicion-impresa/) (Uruguay)
 
 **Resistencia digital en el Sáhara Occidental**: se habla del **uso de las herramientas digitales como medios de resistencia pacífica**; un **instrumento para la consolidación de la identidad nacional mediante la creación de relatos autóctonos**; y una forma que permite a la población la autoorganización. En segundo lugar, se habla, brevemente, de la 'represión digital marroquí'.
 
