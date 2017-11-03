@@ -4,30 +4,33 @@ layout: default
 
 > "Las sociedades avanzan, en muchas ocasiones, a base de desobediencias”,
 
-# Índice
+# Contenido
 
-* [Contenido](#contenido)
-	* [Cartel](#cartel).
-	* [Programa](#programa). 
-	* [Datos contacto y lugar](#datos-de-contacto-y-lugar).
-	* [Participantes](#participantes).
-	* [Entradas](#entradas).
-	* [Entradas en desarrollo](#entradas-en-desarrollo).
-	* [Recursos](#recursos).
+* [Cartel](#cartel).
+* [Programa](#programa). 
+* [Datos contacto y lugar](#datos-de-contacto-y-lugar).
+* [Participantes](#participantes).
+* [Entradas](#entradas).
+* [Entradas en desarrollo](#entradas-en-desarrollo).
+* [Recursos](#recursos).
 
 # Cartel 
 
+[Volver a inicio](#contenido)
+
 ![](Soberania_tecnologica_AF.jpg)
 
-# Contenido
+# Programa
 
-## Programa
+[Volver a inicio](#contenido)
 
 * [Invitación para difusión](https://pad.riseup.net/p/7u2sGwVrIMBj)
 * [Programa](https://pad.riseup.net/p/Ejp2aGavFf2r)
 	* [Testimonios](https://pad.riseup.net/p/RiaR0lkHcQ7D)
 
-## Datos de contacto y lugar
+# Datos de contacto y lugar
+
+[Volver a inicio](#contenido)
 
 La charla se celebrará el Lunes 06 de Noviembre a las 19:00 horas en la Kultur Etxea de Bilbao La Vieja (C/ Urazurrutia 7).
 
@@ -41,13 +44,17 @@ Mapa ([enlace a mapa](https://www.google.es/maps/search/bilbo+zaharreko+kultur+e
 
 ![](images/mapa_kultur.PNG)
 
-## Participantes
+# Participantes
+
+[Volver a inicio](#contenido)
 
 Hemos creado una página especial para desarrollar la información en este [enlace](participantes.md).        
  
-## Entradas
+# Entradas
 
-### Sociedad civil frente a la censura
+[Volver a inicio](#contenido)
+
+## Sociedad civil frente a la censura
 
 * [Bloqueos DNS y censura en la red](bloqueos-dns-y-censura-en-la-red.md).
 * [Buscando evidencias de la censura](evidencias-censura.md).
@@ -55,6 +62,8 @@ Hemos creado una página especial para desarrollar la información en este [enla
 * [“Influencers”, intervenciones de ámbito internacional](influencers-intervenciones-de-ambito-internacional.md)
 
 ## Entradas en desarrollo
+
+[Volver a inicio](#contenido)
 
 Vamos a usar el servicio Etherpad alojado por Riseup.
 
@@ -64,12 +73,14 @@ Vamos a usar el servicio Etherpad alojado por Riseup.
 * [OpenData: Cuando los gobiernos comparten](https://pad.riseup.net/p/DnG7qL6X3J9L)
 * [Kit de Activismo Digital](https://pad.riseup.net/p/TzuH7jfwfN3j)
 
-## Recursos
+# Recursos
 
-### Audio
+[Volver a inicio](#contenido)
+
+## Audio
 
 * ["Sin acritud: Soberanía tecnológica en la Kultur etxea"](https://97irratia.info/es/2017/10/27/soberania-tecnologica-la-kultur-etxea/): Pequeña entrevista donde la gente amiga de la radio "97 Irratia" ([descarga mp3](audio/20171027sinacritud.mp3))
 
-### Libros
+## Libros
 
 * [Referencias Bibliográficas](referencias_bibliograficas.md)
