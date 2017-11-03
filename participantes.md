@@ -39,6 +39,8 @@ Periodista nacido en Durango
 
 Nos hablará sobre algunos temas como la utilidad que pueden tener las redes sociales y Internet para la administración pública o para partidos políticos bien a nivel interno o como herramienta de educación política. 
 
+Valoración de utilidades como [Appgree](http://www.appgree.com/appgree/) para debatir en comunidad.
+
 # heuristica.barcelona
 
 [Volver a inicio](#participantes)
