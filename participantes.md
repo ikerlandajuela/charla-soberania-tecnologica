@@ -35,6 +35,8 @@ Listado de participantes:
 
 **Julen Orbegozo** ([@julenor](https://twitter.com/julenor))
 
+Periodista nacido en Durango 
+
 Alderdiek (edo erakunde publikoek) zertarako sare sozialak eta internet?
 
 * Mezua barreiatzeko
