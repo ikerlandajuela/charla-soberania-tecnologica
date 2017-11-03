@@ -10,7 +10,7 @@ layout: default
 	* [Cartel](#cartel).
 	* [Programa](#programa). 
 	* [Datos contacto y lugar](#datos-de-contacto-y-lugar).
-	* Participantes.
+	* [Participantes](#participantes).
 	* [Entradas](#entradas).
 	* [Entradas en desarrollo](#entradas-en-desarrollo).
 	* [Recursos](#recursos).
@@ -41,6 +41,10 @@ Mapa ([enlace a mapa](https://www.google.es/maps/search/bilbo+zaharreko+kultur+e
 
 ![](images/mapa_kultur.PNG)
 
+## Participantes
+
+Hemos creado una página especial para desarrollar la información en este [enlace](participantes.md).        
+ 
 ## Entradas
 
 ### Sociedad civil frente a la censura
