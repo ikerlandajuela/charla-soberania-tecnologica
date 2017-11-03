@@ -45,11 +45,13 @@ Nos hablará sobre algunos temas como la utilidad que pueden tener las redes soc
 
 Laboratorio de investigación colectiva. Un proyecto que se dedicará la promoción de una ciencia crítica y autocrítica y al análisis de datos para el bien común.
 
+Desarrollan proyectos como #Enredados1O, valiéndose de fuentes de datos como Twitter analizan relaciones y buscan patrones para su posterior interpretación en particulares grafos visuales que rozan el arte incluso. Podéis seguir su canal de Telegram donde ofrecen su particular y genial visión 
+
 ## Luce Prignano
 
 ![](images/ponentes/Luce_Prignano_circle.gif)
 
-**Luce Prignano** es investigadora postdoctoral en la Universitat de Barcelona. Obtuvo su licenciatura en Física en la Universidad "Sapienza" de Roma y se doctoró en la Universidat de Barcelona con una tesis sobre la interdependencia de dinámica y topología en las redes complejas. Después del doctorado, fue investigadora en el "Institut Català de Paleoecologia Humana i Evolució Social" (IPHES) donde empezó a estudiar la redes de comunicación terrestre en época protohistórica. Ha sido curadora del blog de la “Cátedra de Ciencia y Humanismo” de la Universitat Rovira i Virgili "Antikythera - Útiles para la ciencia abierta".
+**Luce Prignano** ([@fatamolinara](https://twitter.com/fatamolinara)) es investigadora postdoctoral en la Universitat de Barcelona. Obtuvo su licenciatura en Física en la Universidad "Sapienza" de Roma y se doctoró en la Universidat de Barcelona con una tesis sobre la interdependencia de dinámica y topología en las redes complejas. Después del doctorado, fue investigadora en el "Institut Català de Paleoecologia Humana i Evolució Social" (IPHES) donde empezó a estudiar la redes de comunicación terrestre en época protohistórica. Ha sido curadora del blog de la “Cátedra de Ciencia y Humanismo” de la Universitat Rovira i Virgili "Antikythera - Útiles para la ciencia abierta".
 
 ## Emanuele Cozzo
 
