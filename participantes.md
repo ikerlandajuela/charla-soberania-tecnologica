@@ -10,7 +10,9 @@ Listado de participantes:
 
 * [Asier Amezaga Albizu](#asier-amezaga-albizu).
 * [Julen Orbegozo](#julen-orbegozo). 
-* [heuristica.barcelona](#heuristica.barcelona): Luce y Emanuele.
+* [heuristica.barcelona](#heuristica.barcelona).
+	* [Luce Prignano](#luce-prignano)
+	* [Emanuele Cozzo](#emanuele-cozzo).
 * [Abdo Taleb Omar](abdo-taleb-omar).
 * [Zirikatzen](#zirikatzen). Deustu herriko kolektiboa. 
 * Bilbo Zaharreko [Kultur Etxea](#kultur-etxea).
@@ -23,7 +25,7 @@ Listado de participantes:
 
 **Asier Amezaga** ([@asieramezaga ](https://twitter.com/asieramezaga)) trabaja como consultor de tecnologías sociales en [Komunikatik](http://www.komunikatik.com/) una empresa ubicada en Getxo, han trabajado en proyectos y en colaboración estrecha con empresas como: Koopera, Bolunta, ADO2, Getxo Kirokak y otros muchos. 
 
-**Asier** también es integrante de la plataforma [Decidim Barcelona](https://www.decidim.barcelona/?locale=es). Decidim tiene como objetivo construir entre todas una ciudad más abierta, transparente y colaborativa
+**Asier** también es integrante de la plataforma [Decidim Barcelona](https://www.decidim.barcelona/?locale=es). Decidim tiene como objetivo construir entre todas una ciudad más abierta, transparente y colaborativa (ver [preguntas más frecuentes](https://www.decidim.barcelona/pages/more-information?locale=es) en su Web)
 
 # Julen Orbegozo
 
@@ -37,11 +39,15 @@ Listado de participantes:
 
 [Volver a inicio](#participantes)
 
-Somos un laboratorio de investigación colectiva. Un proyecto que se dedicará la promoción de una ciencia crítica y autocrítica y al análisis de datos para el bien común.
+Laboratorio de investigación colectiva. Un proyecto que se dedicará la promoción de una ciencia crítica y autocrítica y al análisis de datos para el bien común.
+
+## Luce Prignano
 
 ![](images/ponentes/Luce_Prignano_circle.gif)
 
 **Luce Prignano** es investigadora postdoctoral en la Universitat de Barcelona. Obtuvo su licenciatura en Física en la Universidad "Sapienza" de Roma y se doctoró en la Universidat de Barcelona con una tesis sobre la interdependencia de dinámica y topología en las redes complejas. Después del doctorado, fue investigadora en el "Institut Català de Paleoecologia Humana i Evolució Social" (IPHES) donde empezó a estudiar la redes de comunicación terrestre en época protohistórica. Ha sido curadora del blog de la “Cátedra de Ciencia y Humanismo” de la Universitat Rovira i Virgili "Antikythera - Útiles para la ciencia abierta".
+
+## Emanuele Cozzo
 
 ![](images/ponentes/Emanuele_Cozzo_circle.gif)
 
