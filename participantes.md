@@ -35,6 +35,12 @@ Listado de participantes:
 
 **Julen Orbegozo** ([@julenor](https://twitter.com/julenor))
 
+Alderdiek (edo erakunde publikoek) zertarako sare sozialak eta internet?
+
+* Mezua barreiatzeko
+* Soziologia ezagutzeko
+* Parte-hartzea sustatzeko / demokrazia zabaltzeko.
+
 # heuristica.barcelona
 
 [Volver a inicio](#participantes)
@@ -59,11 +65,9 @@ Laboratorio de investigación colectiva. Un proyecto que se dedicará la promoci
 
 ![](images/ponentes/Abdo_Taleb_Omar_circle.gif)
 
-Doctorando en relaciones internacionales. Es periodista del Sáhara Press Service (SPS); columnista en Radio Pedal (radio online uruguaya); colabora con la BBC Arabic. 
+**Doctorando en relaciones internacionales**. Es periodista del Sáhara Press Service (SPS); columnista en [Radio Pedal](http://radiopedal.uy/); colabora con la BBC Arabic. Es también ex columnista del diario impreso [La República](http://www.republica.com.uy/edicion-impresa/) (Uruguay)
 
-Es también ex columnista del diario impreso La República (Uruguay)
-Resistencia digital en el Sáhara Occidental: se habla del **uso de las herramientas digitales como medios de resistencia pacífica**; un **instrumento para la consolidación de la identidad nacional mediante la creación de relatos autóctonos**; y una forma que permite a la población la autoorganización. En segundo lugar, se habla, brevemente, de la 'represión digital marroquí'.
-
+**Resistencia digital en el Sáhara Occidental**: se habla del **uso de las herramientas digitales como medios de resistencia pacífica**; un **instrumento para la consolidación de la identidad nacional mediante la creación de relatos autóctonos**; y una forma que permite a la población la autoorganización. En segundo lugar, se habla, brevemente, de la 'represión digital marroquí'.
 
 # Zirikatzen
 
