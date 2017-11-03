@@ -45,7 +45,7 @@ Nos hablará sobre algunos temas como la utilidad que pueden tener las redes soc
 
 Laboratorio de investigación colectiva. Un proyecto que se dedica a la promoción de una ciencia crítica y autocrítica y al análisis de datos para el bien común.
 
-Desarrollan proyectos como #Enredados1O, valiéndose de fuentes de datos como Twitter analizan relaciones y buscan patrones para su posterior interpretación en particulares grafos visuales que rozan el arte incluso. Podéis seguir su canal de Telegram donde ofrecen su particular y genial visión 
+Desarrollan proyectos como #Enredados1O, valiéndose de fuentes de datos como Twitter analizan relaciones y buscan patrones para su posterior interpretación en particulares grafos visuales que rozan el arte incluso. Podéis seguir su [canal de Telegram](https://t.me/enred1Oct) donde ofrecen su particular y original visión.
 
 ## Luce Prignano
 
