@@ -59,7 +59,8 @@ Hemos creado una página especial para desarrollar la información en este [enla
 # Presentaciones
 
 * Julen Orbegozo: "[Redes sociales, internet (y política)](presentacion_julen_orbegozo.md)".        
- 
+* Asier Amezaga: "[Soberanía tecnológica](presentacion_asier_amezaga.md)".
+
 # Entradas
 
 [Volver a inicio](#contenido)
