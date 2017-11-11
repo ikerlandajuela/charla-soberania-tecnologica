@@ -44,6 +44,10 @@ Mapa ([enlace a mapa](https://www.google.es/maps/search/bilbo+zaharreko+kultur+e
 
 ![](images/mapa_kultur.PNG)
 
+# Fotos de la charla
+
+Agunas fotos de la charla tomadas por Klaus en este [enlace](fotos_charla.md).
+
 # Participantes
 
 [Volver a inicio](#contenido)
