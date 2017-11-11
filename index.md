@@ -10,6 +10,7 @@ layout: default
 * [Programa](#programa). 
 * [Datos contacto y lugar](#datos-de-contacto-y-lugar).
 * [Participantes](#participantes).
+* [Fotos de la charla](#fotos-de-la-charla).
 * [Entradas](#entradas).
 * [Entradas en desarrollo](#entradas-en-desarrollo).
 * [Recursos](#recursos).
