@@ -10,6 +10,7 @@ layout: default
 * [Programa](#programa). 
 * [Datos contacto y lugar](#datos-de-contacto-y-lugar).
 * [Participantes](#participantes).
+* [Presentaciones](#presentaciones).
 * [Fotos de la charla](#fotos-de-la-charla).
 * [Entradas](#entradas).
 * [Entradas en desarrollo](#entradas-en-desarrollo).
@@ -53,7 +54,11 @@ Agunas fotos de la charla tomadas por Klaus en este [enlace](fotos_charla.md).
 
 [Volver a inicio](#contenido)
 
-Hemos creado una página especial para desarrollar la información en este [enlace](participantes.md).        
+Hemos creado una página especial para desarrollar la información en este [enlace](participantes.md).
+
+# Presentaciones
+
+* Julen Orbegozo: "[Redes sociales, internet (y política)](presentacion_julen_orbegozo.md)".        
  
 # Entradas
 
