@@ -4,11 +4,7 @@ layout: default
 
 [volver](./)
 
-
-*                                                      *
-*    Tecnopolítica para dummies                        *
-*                                                      *
-********************************************************
+# Tecnopolítica para dummies
 
 https://www.bbvaopenmind.com/wp-content/uploads/2015/02/BBVA-OpenMind-Reinventar-la-empresa-15-Klepper1.jpg
 

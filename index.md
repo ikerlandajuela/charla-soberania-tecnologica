@@ -33,9 +33,7 @@ La charla se celebrará el Lunes 06 de Noviembre a las 19:00 horas en la Kultur 
 * [Evento en Facebook](https://www.facebook.com/events/132467557408123/132573560730856/).
 * Canal en Telegram [@EHiria](https://t.me/EHiria).
 
-Mapa ([enlace a mapa](https://www.google.es/maps/search/bilbo+zaharreko+kultur+etxea/@43.2548816,-2.921894,16z)):
-
-![](images/mapa_kultur.PNG)
+Mapa ([enlace a mapa](https://www.google.es/maps/search/bilbo+zaharreko+kultur+etxea/@43.2548816,-2.921894,16z)).
 
 # Fotos de la charla
 
@@ -69,10 +67,9 @@ Hemos creado una página especial para desarrollar la información en este [enla
 
 * [La tecnología de las criptodivisas en la administración pública](entrada_criptodivisas.md).
 * [Tecnopolítica para dummies](tecnolopolitica-para-dummies.md).
+* [Internet descentralizada y distribuida](internet-descentralizada-distribuida.md).
 
-Vamos a usar el servicio Etherpad alojado por Riseup.
 
-* [Internet descentralizada y distribuida](https://pad.riseup.net/p/xWUuDbsRymmz)
 * [OpenData: Cuando los gobiernos comparten](https://pad.riseup.net/p/DnG7qL6X3J9L)
 * [Kit de Activismo Digital](https://pad.riseup.net/p/TzuH7jfwfN3j)
 
