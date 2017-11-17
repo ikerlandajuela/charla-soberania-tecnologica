@@ -7,8 +7,6 @@ layout: default
 # Blockchain: La tecnología de las criptomonedas aplicada a la administración pública
 
 
-
-
 Enlaces externos:
 
 * [Addressing Nigerian Census Through The Eye of Bitcoin Blockchain Technology - Part 1](https://medium.com/@camability/addressing-nigerian-census-through-the-eye-of-bitcoin-blockchain-technology-part-1-85c6bef2ed1)

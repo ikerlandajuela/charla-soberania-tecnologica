@@ -70,8 +70,6 @@ Hemos creado una página especial para desarrollar la información en este [enla
 * [Internet descentralizada y distribuida](internet-descentralizada-distribuida.md).
 * [OpenData: Cuando los gobiernos comparten](opendata-cuando-los-gobiernos-comparten.md)
 
-* [Kit de Activismo Digital](https://pad.riseup.net/p/TzuH7jfwfN3j)
-
 # Recursos
 
 [Volver a inicio](#contenido)
