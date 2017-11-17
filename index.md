@@ -7,7 +7,6 @@ layout: default
 # Contenido
 
 * [Cartel](#cartel).
-* [Programa](#programa). 
 * [Datos contacto y lugar](#datos-de-contacto-y-lugar).
 * [Participantes](#participantes).
 * [Presentaciones](#presentaciones).
@@ -21,14 +20,6 @@ layout: default
 [Volver a inicio](#contenido)
 
 ![](Soberania_tecnologica_AF.jpg)
-
-# Programa
-
-[Volver a inicio](#contenido)
-
-* [Invitación para difusión](https://pad.riseup.net/p/7u2sGwVrIMBj)
-* [Programa](https://pad.riseup.net/p/Ejp2aGavFf2r)
-	* [Testimonios](https://pad.riseup.net/p/RiaR0lkHcQ7D)
 
 # Datos de contacto y lugar
 
@@ -76,10 +67,11 @@ Hemos creado una página especial para desarrollar la información en este [enla
 
 [Volver a inicio](#contenido)
 
+* [La tecnología de las criptodivisas en la administración pública](entrada_criptodivisas.md).
+* [Tecnopolítica para dummies](tecnolopolitica-para-dummies.md).
+
 Vamos a usar el servicio Etherpad alojado por Riseup.
 
-* [La tecnología de las criptodivisas en la administración pública](https://pad.riseup.net/p/12tI9KXFqTDL).
-* [Tecnopolítica para dummies](https://pad.riseup.net/p/LDHjsEEEsuOe).
 * [Internet descentralizada y distribuida](https://pad.riseup.net/p/xWUuDbsRymmz)
 * [OpenData: Cuando los gobiernos comparten](https://pad.riseup.net/p/DnG7qL6X3J9L)
 * [Kit de Activismo Digital](https://pad.riseup.net/p/TzuH7jfwfN3j)
