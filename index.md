@@ -68,9 +68,8 @@ Hemos creado una página especial para desarrollar la información en este [enla
 * [La tecnología de las criptodivisas en la administración pública](entrada_criptodivisas.md).
 * [Tecnopolítica para dummies](tecnolopolitica-para-dummies.md).
 * [Internet descentralizada y distribuida](internet-descentralizada-distribuida.md).
+* [OpenData: Cuando los gobiernos comparten](opendata-cuando-los-gobiernos-comparten.md)
 
-
-* [OpenData: Cuando los gobiernos comparten](https://pad.riseup.net/p/DnG7qL6X3J9L)
 * [Kit de Activismo Digital](https://pad.riseup.net/p/TzuH7jfwfN3j)
 
 # Recursos
