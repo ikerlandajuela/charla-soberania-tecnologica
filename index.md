@@ -9,6 +9,7 @@ layout: default
 * [Cartel](#cartel).
 * [Datos contacto y lugar](#datos-de-contacto-y-lugar).
 * [Participantes](#participantes).
+* [Audio y video de la charla](#audio-y-video-de-la-charla)
 * [Presentaciones](#presentaciones).
 * [Fotos de la charla](#fotos-de-la-charla).
 * [Entradas](#entradas).
@@ -44,6 +45,11 @@ Agunas fotos de la charla tomadas por Klaus en este [enlace](fotos_charla.md).
 [Volver a inicio](#contenido)
 
 Hemos creado una página especial para desarrollar la información en este [enlace](participantes.md).
+
+# Audio y video de la charla
+
+Esta es la última aportación a esta página, ha tardado un poco pero con el audio de la charla hemos preparado varias piezas de la charla para deleite de quien quiera en el futuro. Las cuatro intervenciones se pueden descargar en formato audio como mp3 y se pueden ver en Youtube junto con algunas de las presentaciones. Espero que disfruteis ya que da que pensar.	
+
 
 # Presentaciones
 
